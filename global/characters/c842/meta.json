@@ -1,0 +1,30 @@
+{
+  "code": "c842",
+  "ResourceId": 842,
+  "nameCode": "3017",
+  "中文名": "克莱尔",
+  "英文名": "Claire",
+  "稀有度": "SR",
+  "企业": "反常",
+  "职业": "辅助",
+  "属性": "电击",
+  "爆裂": "爆裂I",
+  "部队": "B.S.T.",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c842_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_heal_01",
+    "icn_skill_barrier_01",
+    "icn_skill_c842_ult"
+  ],
+  "Skill1Id": "2842101",
+  "Skill2Id": "2842201",
+  "UltiSkillId": "1842301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"88\"}",
+  "images_dir": "global/characters/c842/images"
+}

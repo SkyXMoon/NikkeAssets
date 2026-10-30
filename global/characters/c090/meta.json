@@ -1,0 +1,33 @@
+{
+  "code": "c090",
+  "ResourceId": 90,
+  "nameCode": "5005",
+  "中文名": "艾玛",
+  "英文名": "Emma",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "辅助",
+  "属性": "燃烧",
+  "爆裂": "爆裂I",
+  "部队": "特种部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c090_00_s.png",
+    "si_c090_01_s.png",
+    "si_c090_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_heal_01",
+    "icn_skill_c090_ult"
+  ],
+  "Skill1Id": "2090101",
+  "Skill2Id": "2090201",
+  "UltiSkillId": "1090301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+  "images_dir": "global/characters/c090/images"
+}

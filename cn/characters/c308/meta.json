@@ -1,0 +1,30 @@
+{
+ "code": "c308",
+ "ResourceId": 308,
+ "nameCode": "1023",
+ "中文名": "iDoll太阳",
+ "英文名": "iDoll Sun",
+ "稀有度": "R",
+ "企业": "泰特拉",
+ "职业": "辅助",
+ "属性": "铁甲",
+ "爆裂": "爆裂III",
+ "部队": "替代者部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c308_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_defup_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c308_ult"
+ ],
+ "Skill1Id": "2308101",
+ "Skill2Id": "2308201",
+ "UltiSkillId": "1308301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"400\", \"defense\": \"80\"}",
+ "images_dir": "cn/characters/c308/images"
+}

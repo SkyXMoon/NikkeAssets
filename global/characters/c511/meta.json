@@ -1,0 +1,36 @@
+{
+  "code": "c511",
+  "ResourceId": 511,
+  "nameCode": "5124",
+  "中文名": "灰姑娘",
+  "英文名": "Cinderella",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "防御",
+  "属性": "电击",
+  "爆裂": "爆裂III",
+  "部队": "远古故事",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02",
+    "03"
+  ],
+  "si_files": [
+    "si_c511_00_s.png",
+    "si_c511_01_s.png",
+    "si_c511_02_s.png",
+    "si_c511_03_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_stathp_01",
+    "icn_skill_c511_ult"
+  ],
+  "Skill1Id": "2511101",
+  "Skill2Id": "2511201",
+  "UltiSkillId": "1511301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"107\"}",
+  "images_dir": "global/characters/c511/images"
+}

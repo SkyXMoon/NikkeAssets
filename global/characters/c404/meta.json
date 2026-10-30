@@ -1,0 +1,30 @@
+{
+  "code": "c404",
+  "ResourceId": 404,
+  "nameCode": "5182",
+  "中文名": "吉尔提：神力兔女郎",
+  "英文名": "Guilty: Mighty Bunny",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "真善美",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c404_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damage_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c404_ult"
+  ],
+  "Skill1Id": "2404101",
+  "Skill2Id": "2404201",
+  "UltiSkillId": "1404301",
+  "combat": "",
+  "images_dir": "global/characters/c404/images"
+}

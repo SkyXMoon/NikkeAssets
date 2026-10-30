@@ -1,0 +1,32 @@
+{
+  "code": "c160",
+  "ResourceId": 160,
+  "nameCode": "5006",
+  "中文名": "尤妮",
+  "英文名": "Yuni",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "防御",
+  "属性": "燃烧",
+  "爆裂": "爆裂II",
+  "部队": "警备卫士部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c160_00_s.png",
+    "si_c160_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_statreloadtime_01",
+    "icn_skill_defup_01",
+    "icn_skill_c160_ult"
+  ],
+  "Skill1Id": "2160101",
+  "Skill2Id": "2160201",
+  "UltiSkillId": "1160301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"107\"}",
+  "images_dir": "global/characters/c160/images"
+}

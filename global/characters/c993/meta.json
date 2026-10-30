@@ -1,0 +1,30 @@
+{
+  "code": "c993",
+  "ResourceId": 993,
+  "nameCode": "1030",
+  "中文名": "机甲谢芙蒂",
+  "英文名": "Mecha Shifty",
+  "稀有度": "R",
+  "企业": "极乐净土",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂I",
+  "部队": "反击部队",
+  "立绘": "否",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c993_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damagereductiondown_01",
+    "icn_skill_rateoffire_01",
+    "icn_skill_c993_ult"
+  ],
+  "Skill1Id": "2993101",
+  "Skill2Id": "2993201",
+  "UltiSkillId": "1993301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"10350\", \"attack\": \"480\", \"defense\": \"70\"}",
+  "images_dir": "global/characters/c993/images"
+}

@@ -1,0 +1,30 @@
+{
+ "code": "c062",
+ "ResourceId": 62,
+ "nameCode": "5104",
+ "中文名": "米卡：雪地伙伴",
+ "英文名": "Mica: Snow Buddy",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "辅助",
+ "属性": "铁甲",
+ "爆裂": "爆裂I",
+ "部队": "小加农炮部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c062_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_defup_01",
+  "icn_skill_burstgaugespeedup_01",
+  "icn_skill_c062_ult"
+ ],
+ "Skill1Id": "2062101",
+ "Skill2Id": "2062201",
+ "UltiSkillId": "1062301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"86\"}",
+ "images_dir": "cn/characters/c062/images"
+}

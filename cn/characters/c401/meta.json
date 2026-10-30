@@ -1,0 +1,32 @@
+{
+ "code": "c401",
+ "ResourceId": 401,
+ "nameCode": "5059",
+ "中文名": "森",
+ "英文名": "Sin",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "防御",
+ "属性": "电击",
+ "爆裂": "爆裂II",
+ "部队": "真善美",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c401_00_s.png",
+  "si_c401_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_attention_01",
+  "icn_skill_heal_01",
+  "icn_skill_c401_ult"
+ ],
+ "Skill1Id": "2401101",
+ "Skill2Id": "2401201",
+ "UltiSkillId": "1401301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"110\"}",
+ "images_dir": "cn/characters/c401/images"
+}

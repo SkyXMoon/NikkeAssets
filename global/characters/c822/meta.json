@@ -1,0 +1,30 @@
+{
+  "code": "c822",
+  "ResourceId": 822,
+  "nameCode": "3013",
+  "中文名": "拉姆",
+  "英文名": "Ram",
+  "稀有度": "SR",
+  "企业": "反常",
+  "职业": "防御",
+  "属性": "风压",
+  "爆裂": "爆裂I",
+  "部队": "爱蜜莉雅阵营",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c822_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkdown_01",
+    "icn_skill_defup_01",
+    "icn_skill_c822_ult"
+  ],
+  "Skill1Id": "2822101",
+  "Skill2Id": "1822201",
+  "UltiSkillId": "1822301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"12650\", \"attack\": \"360\", \"defense\": \"83\"}",
+  "images_dir": "global/characters/c822/images"
+}

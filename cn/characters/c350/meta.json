@@ -1,0 +1,32 @@
+{
+ "code": "c350",
+ "ResourceId": 350,
+ "nameCode": "5079",
+ "中文名": "马斯特",
+ "英文名": "Mast",
+ "稀有度": "SSR",
+ "企业": "极乐净土",
+ "职业": "辅助",
+ "属性": "电击",
+ "爆裂": "爆裂II",
+ "部队": "宙斯盾部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c350_00_s.png",
+  "si_c350_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_criticaldamage_01",
+  "icn_skill_statcritical_01",
+  "icn_skill_c350_ult"
+ ],
+ "Skill1Id": "2350101",
+ "Skill2Id": "2350201",
+ "UltiSkillId": "1350301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"86\"}",
+ "images_dir": "cn/characters/c350/images"
+}

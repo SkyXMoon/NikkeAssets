@@ -1,0 +1,36 @@
+{
+  "code": "c072",
+  "ResourceId": 72,
+  "nameCode": "5020",
+  "中文名": "迪塞尔",
+  "英文名": "Diesel",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "防御",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "无限轨道部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02",
+    "04"
+  ],
+  "si_files": [
+    "si_c072_00_s.png",
+    "si_c072_01_s.png",
+    "si_c072_02_s.png",
+    "si_c072_04_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_defup_01",
+    "icn_skill_statammo_01",
+    "icn_skill_c072_ult"
+  ],
+  "Skill1Id": "2072101",
+  "Skill2Id": "2072201",
+  "UltiSkillId": "1072301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"92\"}",
+  "images_dir": "global/characters/c072/images"
+}

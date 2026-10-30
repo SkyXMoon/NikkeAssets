@@ -1,0 +1,29 @@
+{
+  "code": "c073",
+  "ResourceId": 73,
+  "nameCode": "5160",
+  "中文名": "布丽德：静默轨道",
+  "英文名": "Brid: Silent Track",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "辅助",
+  "属性": "燃烧",
+  "爆裂": "爆裂II",
+  "部队": "无限轨道部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c073_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damagereductionup_01",
+    "icn_skill_c073_ult"
+  ],
+  "Skill1Id": "2073101",
+  "Skill2Id": "2073201",
+  "UltiSkillId": "1073301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"96\"}",
+  "images_dir": "global/characters/c073/images"
+}

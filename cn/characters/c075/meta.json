@@ -1,0 +1,30 @@
+{
+ "code": "c075",
+ "ResourceId": 75,
+ "nameCode": "5159",
+ "中文名": "迪塞尔：冬日甜心",
+ "英文名": "Diesel: Winter Sweets",
+ "稀有度": "SSR",
+ "企业": "极乐净土",
+ "职业": "火力",
+ "属性": "燃烧",
+ "爆裂": "爆裂III",
+ "部队": "无限轨道部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c075_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_criticaldamage_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c075_ult"
+ ],
+ "Skill1Id": "2075101",
+ "Skill2Id": "2075201",
+ "UltiSkillId": "1075301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+ "images_dir": "cn/characters/c075/images"
+}

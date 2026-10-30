@@ -1,0 +1,30 @@
+{
+ "code": "c283",
+ "ResourceId": 283,
+ "nameCode": "5116",
+ "中文名": "罗珊娜：高雅海洋",
+ "英文名": "Rosanna: Chic Ocean",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "辅助",
+ "属性": "风压",
+ "爆裂": "爆裂II",
+ "部队": "地下女王部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c283_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_damage_01",
+  "icn_skill_c283_ult"
+ ],
+ "Skill1Id": "2283101",
+ "Skill2Id": "1283101",
+ "UltiSkillId": "1283301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"100\"}",
+ "images_dir": "cn/characters/c283/images"
+}

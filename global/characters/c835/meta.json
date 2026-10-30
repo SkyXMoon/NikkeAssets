@@ -1,0 +1,34 @@
+{
+  "code": "c835",
+  "ResourceId": 835,
+  "nameCode": "5133",
+  "中文名": "明日香：WILLE",
+  "英文名": "Asuka: WILLE",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "火力",
+  "属性": "风压",
+  "爆裂": "爆裂III",
+  "部队": "WILLE",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c835_00_s.png",
+    "si_c835_01_s.png",
+    "si_c835_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damagereductionup_01",
+    "icn_skill_heal_01",
+    "icn_skill_c835_ult"
+  ],
+  "Skill1Id": "2835101",
+  "Skill2Id": "2835201",
+  "UltiSkillId": "1835301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"75\"}",
+  "images_dir": "global/characters/c835/images"
+}

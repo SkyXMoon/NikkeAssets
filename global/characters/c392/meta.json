@@ -1,0 +1,30 @@
+{
+  "code": "c392",
+  "ResourceId": 392,
+  "nameCode": "5069",
+  "中文名": "莱伊",
+  "英文名": "Rei",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "防御",
+  "属性": "水冷",
+  "爆裂": "爆裂I",
+  "部队": "校园社团",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c392_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_burstgaugespeedup_01",
+    "icn_skill_defup_01",
+    "icn_skill_c392_ult"
+  ],
+  "Skill1Id": "2392101",
+  "Skill2Id": "2392201",
+  "UltiSkillId": "1392301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"95\"}",
+  "images_dir": "global/characters/c392/images"
+}

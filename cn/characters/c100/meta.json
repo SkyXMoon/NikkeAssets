@@ -1,0 +1,30 @@
+{
+ "code": "c100",
+ "ResourceId": 100,
+ "nameCode": "1010",
+ "中文名": "拉普拉斯",
+ "英文名": "Laplace",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "火力",
+ "属性": "铁甲",
+ "爆裂": "爆裂III",
+ "部队": "墨提斯部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c100_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statexplosion_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c100_ult"
+ ],
+ "Skill1Id": "2100101",
+ "Skill2Id": "2100201",
+ "UltiSkillId": "1100301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+ "images_dir": "cn/characters/c100/images"
+}

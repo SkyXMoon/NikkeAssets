@@ -1,0 +1,32 @@
+{
+  "code": "c225",
+  "ResourceId": 225,
+  "nameCode": "5105",
+  "中文名": "红莲：暗影",
+  "英文名": "Scarlet: Black Shadow",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "火力",
+  "属性": "风压",
+  "爆裂": "爆裂III",
+  "部队": "女神部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c225_00_s.png",
+    "si_c225_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damage_01",
+    "icn_skill_statammo_01",
+    "icn_skill_c225_ult"
+  ],
+  "Skill1Id": "2225101",
+  "Skill2Id": "2225201",
+  "UltiSkillId": "1225401",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+  "images_dir": "global/characters/c225/images"
+}

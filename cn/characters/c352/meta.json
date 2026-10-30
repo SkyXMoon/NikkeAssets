@@ -1,0 +1,34 @@
+{
+ "code": "c352",
+ "ResourceId": 352,
+ "nameCode": "5066",
+ "中文名": "海伦",
+ "英文名": "Helm",
+ "稀有度": "SSR",
+ "企业": "极乐净土",
+ "职业": "火力",
+ "属性": "水冷",
+ "爆裂": "爆裂III",
+ "部队": "宙斯盾部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01",
+  "02"
+ ],
+ "si_files": [
+  "si_c352_00_s.png",
+  "si_c352_01_s.png",
+  "si_c352_02_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statcritical_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c352_ult"
+ ],
+ "Skill1Id": "2352101",
+ "Skill2Id": "2352201",
+ "UltiSkillId": "1352301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+ "images_dir": "cn/characters/c352/images"
+}

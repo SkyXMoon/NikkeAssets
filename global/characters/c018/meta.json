@@ -1,0 +1,32 @@
+{
+  "code": "c018",
+  "ResourceId": 18,
+  "nameCode": "5170",
+  "中文名": "尼恩：透视之眼",
+  "英文名": "Neon: Vision Eye",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "电击",
+  "爆裂": "爆裂III",
+  "部队": "反击部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c018_00_s.png",
+    "si_c018_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_debuffimmune_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c018_ult"
+  ],
+  "Skill1Id": "2018101",
+  "Skill2Id": "2018201",
+  "UltiSkillId": "1018301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+  "images_dir": "global/characters/c018/images"
+}

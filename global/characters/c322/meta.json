@@ -1,0 +1,30 @@
+{
+  "code": "c322",
+  "ResourceId": 322,
+  "nameCode": "5176",
+  "中文名": "玛律恰那：海洋进修",
+  "英文名": "Marciana: Marine Study",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "火力",
+  "属性": "铁甲",
+  "爆裂": "爆裂III",
+  "部队": "学术界",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c322_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damage_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c322_ult"
+  ],
+  "Skill1Id": "2322101",
+  "Skill2Id": "2322201",
+  "UltiSkillId": "1322301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c322/images"
+}

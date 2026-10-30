@@ -1,0 +1,32 @@
+{
+ "code": "c321",
+ "ResourceId": 321,
+ "nameCode": "5048",
+ "中文名": "玛律恰那",
+ "英文名": "Marciana",
+ "稀有度": "SSR",
+ "企业": "极乐净土",
+ "职业": "辅助",
+ "属性": "铁甲",
+ "爆裂": "爆裂II",
+ "部队": "学术界",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c321_00_s.png",
+  "si_c321_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_heal_01",
+  "icn_skill_heal_01",
+  "icn_skill_c321_ult"
+ ],
+ "Skill1Id": "2321101",
+ "Skill2Id": "2321201",
+ "UltiSkillId": "1321301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"96\"}",
+ "images_dir": "cn/characters/c321/images"
+}

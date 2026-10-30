@@ -1,0 +1,30 @@
+{
+ "code": "c862",
+ "ResourceId": 862,
+ "nameCode": "3018",
+ "中文名": "Locale_Character:862_name",
+ "英文名": "Kurumi",
+ "稀有度": "SR",
+ "企业": "反常",
+ "职业": "辅助",
+ "属性": "铁甲",
+ "爆裂": "爆裂I",
+ "部队": "Locale_Character:ce008_name",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c862_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_damage_01",
+  "icn_skill_damage_01",
+  "icn_skill_c862_ult"
+ ],
+ "Skill1Id": "2862101",
+ "Skill2Id": "2862201",
+ "UltiSkillId": "1862301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"90\"}",
+ "images_dir": "cn/characters/c862/images"
+}

@@ -1,0 +1,32 @@
+{
+  "code": "c105",
+  "ResourceId": 105,
+  "nameCode": "5178",
+  "中文名": "麦斯威尔：平凡技师",
+  "英文名": "Maxwell: Ordinary Mechanic",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "辅助",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "墨提斯部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c105_00_s.png",
+    "si_c105_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_stathp_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c105_ult"
+  ],
+  "Skill1Id": "2105101",
+  "Skill2Id": "2105201",
+  "UltiSkillId": "1105301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+  "images_dir": "global/characters/c105/images"
+}

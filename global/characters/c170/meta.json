@@ -1,0 +1,37 @@
+{
+  "code": "c170",
+  "ResourceId": 170,
+  "nameCode": "5007",
+  "中文名": "普丽瓦蒂",
+  "英文名": "Privaty",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "三角部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02",
+    "03",
+    "04"
+  ],
+  "si_files": [
+    "si_c170_00_s.png",
+    "si_c170_01_s.png",
+    "si_c170_02_s.png",
+    "si_c170_03_s.png",
+    "si_c170_04_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_c170_ult"
+  ],
+  "Skill1Id": "2170101",
+  "Skill2Id": "2170201",
+  "UltiSkillId": "1170301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c170/images"
+}

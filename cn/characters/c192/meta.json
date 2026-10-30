@@ -1,0 +1,34 @@
+{
+ "code": "c192",
+ "ResourceId": 192,
+ "nameCode": "5081",
+ "中文名": "托比",
+ "英文名": "Tove",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "辅助",
+ "属性": "水冷",
+ "爆裂": "爆裂I",
+ "部队": "无极限部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01",
+  "02"
+ ],
+ "si_files": [
+  "si_c192_00_s.png",
+  "si_c192_01_s.png",
+  "si_c192_02_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statammo_01",
+  "icn_skill_rateoffire_01",
+  "icn_skill_c192_ult"
+ ],
+ "Skill1Id": "2192101",
+ "Skill2Id": "2192201",
+ "UltiSkillId": "1192301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"100\"}",
+ "images_dir": "cn/characters/c192/images"
+}

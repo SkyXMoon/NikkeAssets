@@ -1,0 +1,30 @@
+{
+  "code": "c836",
+  "ResourceId": 836,
+  "nameCode": "3015",
+  "中文名": "樱",
+  "英文名": "Sakura",
+  "稀有度": "SR",
+  "企业": "反常",
+  "职业": "辅助",
+  "属性": "水冷",
+  "爆裂": "爆裂I",
+  "部队": "WILLE",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c836_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damagereductionup_01",
+    "icn_skill_damagereductiondown_01",
+    "icn_skill_c836_ult"
+  ],
+  "Skill1Id": "2836101",
+  "Skill2Id": "2836201",
+  "UltiSkillId": "1836301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"78\"}",
+  "images_dir": "global/characters/c836/images"
+}

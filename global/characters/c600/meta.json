@@ -1,0 +1,32 @@
+{
+  "code": "c600",
+  "ResourceId": 600,
+  "nameCode": "5172",
+  "中文名": "敏特",
+  "英文名": "Mint",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "辅助",
+  "属性": "铁甲",
+  "爆裂": "爆裂II",
+  "部队": "T.T. STAR",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c600_00_s.png",
+    "si_c600_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_statcritical_01",
+    "icn_skill_c600_ult"
+  ],
+  "Skill1Id": "2600101",
+  "Skill2Id": "2600201",
+  "UltiSkillId": "1600301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"98\"}",
+  "images_dir": "global/characters/c600/images"
+}

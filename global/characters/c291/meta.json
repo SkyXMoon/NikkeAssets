@@ -1,0 +1,30 @@
+{
+  "code": "c291",
+  "ResourceId": 291,
+  "nameCode": "3010",
+  "中文名": "艾瑟儿",
+  "英文名": "Ether",
+  "稀有度": "SR",
+  "企业": "米西利斯",
+  "职业": "防御",
+  "属性": "电击",
+  "爆裂": "爆裂I",
+  "部队": "M.M.R.",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c291_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_defup_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c291_ult"
+  ],
+  "Skill1Id": "1291101",
+  "Skill2Id": "1291201",
+  "UltiSkillId": "1291301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"12650\", \"attack\": \"360\", \"defense\": \"95\"}",
+  "images_dir": "global/characters/c291/images"
+}

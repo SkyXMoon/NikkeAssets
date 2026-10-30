@@ -1,0 +1,32 @@
+{
+  "code": "c601",
+  "ResourceId": 601,
+  "nameCode": "5173",
+  "中文名": "普莉卡",
+  "英文名": "Prika",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "辅助",
+  "属性": "水冷",
+  "爆裂": "爆裂II",
+  "部队": "T.T. STAR",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c601_00_s.png",
+    "si_c601_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_heal_01",
+    "icn_skill_stathp_01",
+    "icn_skill_c601_ult"
+  ],
+  "Skill1Id": "2601101",
+  "Skill2Id": "2601201",
+  "UltiSkillId": "1601301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+  "images_dir": "global/characters/c601/images"
+}

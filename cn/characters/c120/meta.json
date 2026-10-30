@@ -1,0 +1,30 @@
+{
+ "code": "c120",
+ "ResourceId": 120,
+ "nameCode": "3009",
+ "中文名": "N102",
+ "英文名": "N102",
+ "稀有度": "SR",
+ "企业": "米西利斯",
+ "职业": "辅助",
+ "属性": "水冷",
+ "爆裂": "爆裂I",
+ "部队": "召回释放部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c120_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statammo_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c120_ult"
+ ],
+ "Skill1Id": "2120101",
+ "Skill2Id": "1120201",
+ "UltiSkillId": "1120301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"88\"}",
+ "images_dir": "cn/characters/c120/images"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "c331",
+  "ResourceId": 331,
+  "nameCode": "5157",
+  "中文名": "钟鸣",
+  "英文名": "Chime",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "辅助",
+  "属性": "铁甲",
+  "爆裂": "爆裂II",
+  "部队": "白骑士",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c331_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_c331_ult"
+  ],
+  "Skill1Id": "2331101",
+  "Skill2Id": "2331201",
+  "UltiSkillId": "1331301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"86\"}",
+  "images_dir": "global/characters/c331/images"
+}

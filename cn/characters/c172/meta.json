@@ -1,0 +1,30 @@
+{
+ "code": "c172",
+ "ResourceId": 172,
+ "nameCode": "5030",
+ "中文名": "艾德米",
+ "英文名": "Admi",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "辅助",
+ "属性": "风压",
+ "爆裂": "爆裂II",
+ "部队": "三角部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c172_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_defup_01",
+  "icn_skill_c172_ult"
+ ],
+ "Skill1Id": "2172101",
+ "Skill2Id": "1172201",
+ "UltiSkillId": "1172301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+ "images_dir": "cn/characters/c172/images"
+}

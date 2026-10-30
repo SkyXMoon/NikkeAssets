@@ -1,0 +1,30 @@
+{
+  "code": "c833",
+  "ResourceId": 833,
+  "nameCode": "3014",
+  "中文名": "美里",
+  "英文名": "Misato",
+  "稀有度": "SR",
+  "企业": "反常",
+  "职业": "辅助",
+  "属性": "铁甲",
+  "爆裂": "爆裂I",
+  "部队": "NERV",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c833_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_heal_01",
+    "icn_skill_barrierdamage_01",
+    "icn_skill_c833_ult"
+  ],
+  "Skill1Id": "2833101",
+  "Skill2Id": "2833201",
+  "UltiSkillId": "1833301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"78\"}",
+  "images_dir": "global/characters/c833/images"
+}

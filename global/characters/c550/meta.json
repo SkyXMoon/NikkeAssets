@@ -1,0 +1,32 @@
+{
+  "code": "c550",
+  "ResourceId": 550,
+  "nameCode": "5111",
+  "中文名": "贝伊",
+  "英文名": "Bay",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "防御",
+  "属性": "燃烧",
+  "爆裂": "爆裂II",
+  "部队": "倒带",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c550_00_s.png",
+    "si_c550_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damageshare_01",
+    "icn_skill_healcover_01",
+    "icn_skill_c550_ult"
+  ],
+  "Skill1Id": "2550101",
+  "Skill2Id": "2550201",
+  "UltiSkillId": "1550301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"107\"}",
+  "images_dir": "global/characters/c550/images"
+}

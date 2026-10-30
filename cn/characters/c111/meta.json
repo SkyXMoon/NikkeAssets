@@ -1,0 +1,32 @@
+{
+ "code": "c111",
+ "ResourceId": 111,
+ "nameCode": "1020",
+ "中文名": "豺狼",
+ "英文名": "Jackal",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "防御",
+ "属性": "铁甲",
+ "爆裂": "爆裂I",
+ "部队": "外来者部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c111_00_s.png",
+  "si_c111_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkdown_01",
+  "icn_skill_defup_01",
+  "icn_skill_c111_ult"
+ ],
+ "Skill1Id": "2111101",
+ "Skill2Id": "2111201",
+ "UltiSkillId": "1111301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"107\"}",
+ "images_dir": "cn/characters/c111/images"
+}

@@ -1,0 +1,29 @@
+{
+  "code": "c014",
+  "ResourceId": 14,
+  "nameCode": "5071",
+  "中文名": "尼恩：蓝色海洋",
+  "英文名": "Neon: Blue Ocean",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "反击部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c014_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_c014_ult"
+  ],
+  "Skill1Id": "2014101",
+  "Skill2Id": "2014201",
+  "UltiSkillId": "1014301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"75\"}",
+  "images_dir": "global/characters/c014/images"
+}

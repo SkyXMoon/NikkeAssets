@@ -1,0 +1,30 @@
+{
+ "code": "c411",
+ "ResourceId": 411,
+ "nameCode": "5126",
+ "中文名": "芙罗拉",
+ "英文名": "Flora",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "辅助",
+ "属性": "电击",
+ "爆裂": "爆裂II",
+ "部队": "植物园",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c411_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_heal_01",
+  "icn_skill_barrier_01",
+  "icn_skill_c411_ult"
+ ],
+ "Skill1Id": "2411101",
+ "Skill2Id": "2411201",
+ "UltiSkillId": "1411301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+ "images_dir": "cn/characters/c411/images"
+}

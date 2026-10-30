@@ -1,0 +1,30 @@
+{
+  "code": "c307",
+  "ResourceId": 307,
+  "nameCode": "1024",
+  "中文名": "产品23",
+  "英文名": "Product 23",
+  "稀有度": "R",
+  "企业": "米西利斯",
+  "职业": "辅助",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "替代者部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c307_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_defup_01",
+    "icn_skill_heal_01",
+    "icn_skill_c307_ult"
+  ],
+  "Skill1Id": "2307101",
+  "Skill2Id": "1307201",
+  "UltiSkillId": "1307301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"400\", \"defense\": \"77\"}",
+  "images_dir": "global/characters/c307/images"
+}

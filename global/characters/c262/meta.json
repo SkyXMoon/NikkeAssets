@@ -1,0 +1,31 @@
+{
+  "code": "c262",
+  "ResourceId": 262,
+  "nameCode": "5156",
+  "中文名": "莉贝雷利奥",
+  "英文名": "Liberalio",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "火力",
+  "属性": "风压",
+  "爆裂": "爆裂III",
+  "部队": "异端者",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c262_00_s.png",
+    "si_c262_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_c262_ult"
+  ],
+  "Skill1Id": "2262101",
+  "Skill2Id": "2262201",
+  "UltiSkillId": "1262301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+  "images_dir": "global/characters/c262/images"
+}

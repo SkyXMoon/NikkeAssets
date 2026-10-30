@@ -1,0 +1,34 @@
+{
+  "code": "c834",
+  "ResourceId": 834,
+  "nameCode": "5132",
+  "中文名": "零（暂称）",
+  "英文名": "Rei (Tentative Name)",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "火力",
+  "属性": "风压",
+  "爆裂": "爆裂III",
+  "部队": "NERV",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c834_00_s.png",
+    "si_c834_01_s.png",
+    "si_c834_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damage_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c834_ult"
+  ],
+  "Skill1Id": "2834101",
+  "Skill2Id": "2834201",
+  "UltiSkillId": "1834301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c834/images"
+}

@@ -1,0 +1,26 @@
+{
+ "code": "c5006",
+ "ResourceId": 5006,
+ "nameCode": "1027",
+ "中文名": "桃乐丝",
+ "英文名": "桃乐丝 (zh-CN)",
+ "稀有度": "R",
+ "企业": "朝圣者",
+ "职业": "辅助",
+ "属性": "水冷",
+ "爆裂": "爆裂I",
+ "部队": "继承者部队",
+ "立绘": "否",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c5006_00_s.png"
+ ],
+ "skill_icons": [],
+ "Skill1Id": "9010201",
+ "Skill2Id": "9010301",
+ "UltiSkillId": "9010301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"400\", \"defense\": \"69\"}",
+ "images_dir": "cn/characters/c5006/images"
+}

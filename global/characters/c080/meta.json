@@ -1,0 +1,34 @@
+{
+  "code": "c080",
+  "ResourceId": 80,
+  "nameCode": "5021",
+  "中文名": "桑迪",
+  "英文名": "Centi",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "防御",
+  "属性": "铁甲",
+  "爆裂": "爆裂II",
+  "部队": "非凡工具部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c080_00_s.png",
+    "si_c080_01_s.png",
+    "si_c080_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_statreloadtime_01",
+    "icn_skill_barrier_01",
+    "icn_skill_c080_ult"
+  ],
+  "Skill1Id": "2080101",
+  "Skill2Id": "1080201",
+  "UltiSkillId": "1080301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"107\"}",
+  "images_dir": "global/characters/c080/images"
+}

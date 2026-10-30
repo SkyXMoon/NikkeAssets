@@ -1,0 +1,32 @@
+{
+ "code": "c095",
+ "ResourceId": 95,
+ "nameCode": "5149",
+ "中文名": "银华：战术升级",
+ "英文名": "Eunhwa: Tactical Upgrade",
+ "稀有度": "SSR",
+ "企业": "极乐净土",
+ "职业": "火力",
+ "属性": "燃烧",
+ "爆裂": "爆裂II",
+ "部队": "特种部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c095_00_s.png",
+  "si_c095_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_statcritical_01",
+  "icn_skill_c095_ult"
+ ],
+ "Skill1Id": "2095101",
+ "Skill2Id": "2095201",
+ "UltiSkillId": "1095301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+ "images_dir": "cn/characters/c095/images"
+}

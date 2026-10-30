@@ -1,0 +1,30 @@
+{
+ "code": "c092",
+ "ResourceId": 92,
+ "nameCode": "5023",
+ "中文名": "银华",
+ "英文名": "Eunhwa",
+ "稀有度": "SSR",
+ "企业": "极乐净土",
+ "职业": "火力",
+ "属性": "燃烧",
+ "爆裂": "爆裂II",
+ "部队": "特种部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c092_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statreloadtime_01",
+  "icn_skill_defdown_01",
+  "icn_skill_c092_ult"
+ ],
+ "Skill1Id": "2092101",
+ "Skill2Id": "2092201",
+ "UltiSkillId": "1092301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+ "images_dir": "cn/characters/c092/images"
+}

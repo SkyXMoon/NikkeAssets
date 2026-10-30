@@ -1,0 +1,30 @@
+{
+  "code": "c221",
+  "ResourceId": 221,
+  "nameCode": "5040",
+  "中文名": "长发公主",
+  "英文名": "Rapunzel",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "辅助",
+  "属性": "铁甲",
+  "爆裂": "爆裂I",
+  "部队": "开拓者部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c221_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_heal_01",
+    "icn_skill_stathp_01",
+    "icn_skill_c221_ult"
+  ],
+  "Skill1Id": "2221101",
+  "Skill2Id": "1221201",
+  "UltiSkillId": "1221301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"98\"}",
+  "images_dir": "global/characters/c221/images"
+}

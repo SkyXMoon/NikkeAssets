@@ -1,0 +1,32 @@
+{
+  "code": "c230",
+  "ResourceId": 230,
+  "nameCode": "5042",
+  "中文名": "哈兰",
+  "英文名": "Harran",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "火力",
+  "属性": "电击",
+  "爆裂": "爆裂III",
+  "部队": "继承者部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c230_00_s.png",
+    "si_c230_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_statpenetration_01",
+    "icn_skill_c230_ult"
+  ],
+  "Skill1Id": "2230101",
+  "Skill2Id": "2230201",
+  "UltiSkillId": "1230301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c230/images"
+}

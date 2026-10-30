@@ -1,0 +1,30 @@
+{
+  "code": "c515",
+  "ResourceId": 515,
+  "nameCode": "5175",
+  "中文名": "灰姑娘：琉璃波光",
+  "英文名": "Cinderella: Crystal Wave",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "火力",
+  "属性": "铁甲",
+  "爆裂": "爆裂III",
+  "部队": "远古故事",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c515_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_coredamage_01",
+    "icn_skill_c515_ult"
+  ],
+  "Skill1Id": "2515101",
+  "Skill2Id": "2515201",
+  "UltiSkillId": "1515301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"75\"}",
+  "images_dir": "global/characters/c515/images"
+}

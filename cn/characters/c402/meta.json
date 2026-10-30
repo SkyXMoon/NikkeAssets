@@ -1,0 +1,30 @@
+{
+ "code": "c402",
+ "ResourceId": 402,
+ "nameCode": "5078",
+ "中文名": "坎西",
+ "英文名": "Quency",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "辅助",
+ "属性": "电击",
+ "爆裂": "爆裂II",
+ "部队": "真善美",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c402_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_stathp_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c402_ult"
+ ],
+ "Skill1Id": "2402101",
+ "Skill2Id": "1402201",
+ "UltiSkillId": "1402301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"86\"}",
+ "images_dir": "cn/characters/c402/images"
+}

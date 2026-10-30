@@ -1,0 +1,29 @@
+{
+  "code": "c182",
+  "ResourceId": 182,
+  "nameCode": "5128",
+  "中文名": "吉萝婷：寒冬杀手",
+  "英文名": "Guillotine: Winter Slayer",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "外界部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c182_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_c182_ult"
+  ],
+  "Skill1Id": "2182101",
+  "Skill2Id": "2182201",
+  "UltiSkillId": "1182301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c182/images"
+}

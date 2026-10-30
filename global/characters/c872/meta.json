@@ -1,0 +1,30 @@
+{
+  "code": "c872",
+  "ResourceId": 872,
+  "nameCode": "3019",
+  "中文名": "埃癸斯",
+  "英文名": "Aigis",
+  "稀有度": "SR",
+  "企业": "反常",
+  "职业": "辅助",
+  "属性": "铁甲",
+  "爆裂": "爆裂II",
+  "部队": "特别课外活动部",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c872_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_defup_01",
+    "icn_skill_c872_ult"
+  ],
+  "Skill1Id": "2872101",
+  "Skill2Id": "2872201",
+  "UltiSkillId": "1872301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"78\"}",
+  "images_dir": "global/characters/c872/images"
+}

@@ -1,0 +1,32 @@
+{
+  "code": "c202",
+  "ResourceId": 202,
+  "nameCode": "5036",
+  "中文名": "朵拉",
+  "英文名": "Dolla",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "辅助",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "达兰特部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c202_00_s.png",
+    "si_c202_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_statreloadtime_01",
+    "icn_skill_c202_ult"
+  ],
+  "Skill1Id": "1202101",
+  "Skill2Id": "2202201",
+  "UltiSkillId": "1202301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+  "images_dir": "global/characters/c202/images"
+}

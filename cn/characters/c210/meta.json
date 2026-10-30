@@ -1,0 +1,32 @@
+{
+ "code": "c210",
+ "ResourceId": 210,
+ "nameCode": "5003",
+ "中文名": "艾可希雅",
+ "英文名": "Exia",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "辅助",
+ "属性": "电击",
+ "爆裂": "爆裂I",
+ "部队": "协议部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c210_00_s.png",
+  "si_c210_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkdown_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c210_ult"
+ ],
+ "Skill1Id": "2210101",
+ "Skill2Id": "2210201",
+ "UltiSkillId": "1210301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+ "images_dir": "cn/characters/c210/images"
+}

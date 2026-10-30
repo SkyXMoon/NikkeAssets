@@ -1,0 +1,29 @@
+{
+  "code": "c121",
+  "ResourceId": 121,
+  "nameCode": "5085",
+  "中文名": "安妮：奇迹仙女",
+  "英文名": "Anne: Miracle Fairy",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "辅助",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "召回释放部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c121_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_heal_01",
+    "icn_skill_c121_ult"
+  ],
+  "Skill1Id": "2121101",
+  "Skill2Id": "2121201",
+  "UltiSkillId": "1121301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"98\"}",
+  "images_dir": "global/characters/c121/images"
+}

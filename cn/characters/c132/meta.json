@@ -1,0 +1,30 @@
+{
+ "code": "c132",
+ "ResourceId": 132,
+ "nameCode": "5064",
+ "中文名": "梅里：海湾女神",
+ "英文名": "Mary: Bay Goddess",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "辅助",
+ "属性": "水冷",
+ "爆裂": "爆裂I",
+ "部队": "六翼天使部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c132_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_heal_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c132_ult"
+ ],
+ "Skill1Id": "2132101",
+ "Skill2Id": "2132201",
+ "UltiSkillId": "1132301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+ "images_dir": "cn/characters/c132/images"
+}

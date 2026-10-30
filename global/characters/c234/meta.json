@@ -1,0 +1,30 @@
+{
+  "code": "c234",
+  "ResourceId": 234,
+  "nameCode": "5145",
+  "中文名": "桃乐丝：机缘巧遇",
+  "英文名": "Dorothy: Serendipity",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "继承者部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c234_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_statpenetration_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c234_ult"
+  ],
+  "Skill1Id": "2234101",
+  "Skill2Id": "2234201",
+  "UltiSkillId": "1234301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"86\"}",
+  "images_dir": "global/characters/c234/images"
+}

@@ -1,0 +1,30 @@
+{
+ "code": "c261",
+ "ResourceId": 261,
+ "nameCode": "5056",
+ "中文名": "尼希利斯塔",
+ "英文名": "Nihilister",
+ "稀有度": "SSR",
+ "企业": "朝圣者",
+ "职业": "火力",
+ "属性": "燃烧",
+ "爆裂": "爆裂II",
+ "部队": "异端者",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c261_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statexplosion_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c261_ult"
+ ],
+ "Skill1Id": "2261101",
+ "Skill2Id": "1261201",
+ "UltiSkillId": "1261301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+ "images_dir": "cn/characters/c261/images"
+}

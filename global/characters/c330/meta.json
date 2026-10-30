@@ -1,0 +1,34 @@
+{
+  "code": "c330",
+  "ResourceId": 330,
+  "nameCode": "5065",
+  "中文名": "皇冠",
+  "英文名": "Crown",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "防御",
+  "属性": "铁甲",
+  "爆裂": "爆裂II",
+  "部队": "白骑士",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c330_00_s.png",
+    "si_c330_01_s.png",
+    "si_c330_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_statreloadtime_01",
+    "icn_skill_attention_01",
+    "icn_skill_c330_ult"
+  ],
+  "Skill1Id": "2330101",
+  "Skill2Id": "2330201",
+  "UltiSkillId": "1330301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"92\"}",
+  "images_dir": "global/characters/c330/images"
+}

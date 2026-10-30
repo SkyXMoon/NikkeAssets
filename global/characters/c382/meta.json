@@ -1,0 +1,32 @@
+{
+  "code": "c382",
+  "ResourceId": 382,
+  "nameCode": "5092",
+  "中文名": "莱昂纳",
+  "英文名": "Leona",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "辅助",
+  "属性": "水冷",
+  "爆裂": "爆裂II",
+  "部队": "快乐动物园部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c382_00_s.png",
+    "si_c382_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_bonusrange_01",
+    "icn_skill_statshotcount_01",
+    "icn_skill_c382_ult"
+  ],
+  "Skill1Id": "2382101",
+  "Skill2Id": "2382201",
+  "UltiSkillId": "1382301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"96\"}",
+  "images_dir": "global/characters/c382/images"
+}

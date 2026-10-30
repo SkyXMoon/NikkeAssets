@@ -1,0 +1,32 @@
+{
+  "code": "c310",
+  "ResourceId": 310,
+  "nameCode": "5046",
+  "中文名": "爱德",
+  "英文名": "Ade",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "辅助",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "专属女仆部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c310_00_s.png",
+    "si_c310_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_debuffimmune_01",
+    "icn_skill_stathp_01",
+    "icn_skill_c310_ult"
+  ],
+  "Skill1Id": "2310101",
+  "Skill2Id": "2310201",
+  "UltiSkillId": "1310301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"100\"}",
+  "images_dir": "global/characters/c310/images"
+}

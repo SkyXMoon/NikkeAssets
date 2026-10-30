@@ -1,0 +1,30 @@
+{
+  "code": "c802",
+  "ResourceId": 802,
+  "nameCode": "3012",
+  "中文名": "姬野",
+  "英文名": "Himeno",
+  "稀有度": "SR",
+  "企业": "反常",
+  "职业": "辅助",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "恶魔猎人",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c802_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_defdown_01",
+    "icn_skill_statammo_01",
+    "icn_skill_c802_ult"
+  ],
+  "Skill1Id": "2802101",
+  "Skill2Id": "1802201",
+  "UltiSkillId": "1802301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"76\"}",
+  "images_dir": "global/characters/c802/images"
+}

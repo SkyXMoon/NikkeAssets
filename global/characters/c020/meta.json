@@ -1,0 +1,30 @@
+{
+  "code": "c020",
+  "ResourceId": 20,
+  "nameCode": "3003",
+  "中文名": "德尔塔",
+  "英文名": "Delta",
+  "稀有度": "SR",
+  "企业": "极乐净土",
+  "职业": "防御",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "侦察者部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c020_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_stathp_01",
+    "icn_skill_defup_01",
+    "icn_skill_c020_ult"
+  ],
+  "Skill1Id": "2020101",
+  "Skill2Id": "2020201",
+  "UltiSkillId": "1020301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"12650\", \"attack\": \"360\", \"defense\": \"83\"}",
+  "images_dir": "global/characters/c020/images"
+}

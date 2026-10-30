@@ -1,0 +1,34 @@
+{
+  "code": "c821",
+  "ResourceId": 821,
+  "nameCode": "5109",
+  "中文名": "爱蜜莉雅",
+  "英文名": "Emilia",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "爱蜜莉雅阵营",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c821_00_s.png",
+    "si_c821_01_s.png",
+    "si_c821_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_chargedamage_01",
+    "icn_skill_damage_01",
+    "icn_skill_c821_ult"
+  ],
+  "Skill1Id": "2821101",
+  "Skill2Id": "2821201",
+  "UltiSkillId": "1821301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+  "images_dir": "global/characters/c821/images"
+}

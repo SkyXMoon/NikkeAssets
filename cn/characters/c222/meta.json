@@ -1,0 +1,32 @@
+{
+ "code": "c222",
+ "ResourceId": 222,
+ "nameCode": "5041",
+ "中文名": "红莲",
+ "英文名": "Scarlet",
+ "稀有度": "SSR",
+ "企业": "朝圣者",
+ "职业": "火力",
+ "属性": "电击",
+ "爆裂": "爆裂III",
+ "部队": "开拓者部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c222_00_s.png",
+  "si_c222_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c222_ult"
+ ],
+ "Skill1Id": "2222101",
+ "Skill2Id": "2222201",
+ "UltiSkillId": "1222301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+ "images_dir": "cn/characters/c222/images"
+}

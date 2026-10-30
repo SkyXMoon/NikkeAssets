@@ -1,0 +1,32 @@
+{
+  "code": "c471",
+  "ResourceId": 471,
+  "nameCode": "5161",
+  "中文名": "白雪公主：重型武装",
+  "英文名": "Snow White: Heavy Arms",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "女神部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c471_00_s.png",
+    "si_c471_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damagereductionup_01",
+    "icn_skill_statpenetration_01",
+    "icn_skill_c471_ult"
+  ],
+  "Skill1Id": "2471101",
+  "Skill2Id": "2471201",
+  "UltiSkillId": "1471301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+  "images_dir": "global/characters/c471/images"
+}

@@ -1,0 +1,34 @@
+{
+  "code": "c010",
+  "ResourceId": 10,
+  "nameCode": "3001",
+  "中文名": "拉毗",
+  "英文名": "Rapi",
+  "稀有度": "SR",
+  "企业": "极乐净土",
+  "职业": "火力",
+  "属性": "燃烧",
+  "爆裂": "爆裂III",
+  "部队": "反击部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c010_00_s.png",
+    "si_c010_01_s.png",
+    "si_c010_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_attention_01",
+    "icn_skill_c010_ult"
+  ],
+  "Skill1Id": "2010101",
+  "Skill2Id": "1010201",
+  "UltiSkillId": "1010301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"10350\", \"attack\": \"540\", \"defense\": \"81\"}",
+  "images_dir": "global/characters/c010/images"
+}

@@ -1,0 +1,30 @@
+{
+ "code": "c590",
+ "ResourceId": 590,
+ "nameCode": "5139",
+ "中文名": "莫莉",
+ "英文名": "Mori",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "防御",
+ "属性": "风压",
+ "爆裂": "爆裂II",
+ "部队": "Locale_Character:incubator_name",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c590_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_barrier_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c590_ult"
+ ],
+ "Skill1Id": "2590101",
+ "Skill2Id": "2590201",
+ "UltiSkillId": "1590301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"110\"}",
+ "images_dir": "cn/characters/c590/images"
+}

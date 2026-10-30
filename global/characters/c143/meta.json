@@ -1,0 +1,30 @@
+{
+  "code": "c143",
+  "ResourceId": 143,
+  "nameCode": "5150",
+  "中文名": "米尔克：花漾兔女郎",
+  "英文名": "Milk: Blooming Bunny",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "火力",
+  "属性": "铁甲",
+  "爆裂": "爆裂III",
+  "部队": "咖啡厅甜心部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c143_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_penetrationdamage_01",
+    "icn_skill_c143_ult"
+  ],
+  "Skill1Id": "2143101",
+  "Skill2Id": "2143201",
+  "UltiSkillId": "1143301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+  "images_dir": "global/characters/c143/images"
+}

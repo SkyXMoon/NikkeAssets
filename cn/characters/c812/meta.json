@@ -1,0 +1,30 @@
+{
+ "code": "c812",
+ "ResourceId": 812,
+ "nameCode": "5096",
+ "中文名": "帕斯卡",
+ "英文名": "Pascal",
+ "稀有度": "SR",
+ "企业": "反常",
+ "职业": "辅助",
+ "属性": "铁甲",
+ "爆裂": "爆裂I",
+ "部队": "机械生命体",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c812_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_heal_01",
+  "icn_skill_heal_01",
+  "icn_skill_c812_ult"
+ ],
+ "Skill1Id": "2812101",
+ "Skill2Id": "2812201",
+ "UltiSkillId": "1812301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"88\"}",
+ "images_dir": "cn/characters/c812/images"
+}

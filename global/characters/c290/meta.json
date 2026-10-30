@@ -1,0 +1,32 @@
+{
+  "code": "c290",
+  "ResourceId": 290,
+  "nameCode": "1019",
+  "中文名": "玛娜",
+  "英文名": "Mana",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "风压",
+  "爆裂": "爆裂III",
+  "部队": "M.M.R.",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c290_00_s.png",
+    "si_c290_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_heal_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c290_ult"
+  ],
+  "Skill1Id": "2290101",
+  "Skill2Id": "2290201",
+  "UltiSkillId": "1290301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c290/images"
+}

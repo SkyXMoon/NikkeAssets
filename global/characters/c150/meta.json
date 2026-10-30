@@ -1,0 +1,34 @@
+{
+  "code": "c150",
+  "ResourceId": 150,
+  "nameCode": "5014",
+  "中文名": "尤莉亚",
+  "英文名": "Julia",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "铁甲",
+  "爆裂": "爆裂III",
+  "部队": "大师之手部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c150_00_s.png",
+    "si_c150_01_s.png",
+    "si_c150_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_statcritical_01",
+    "icn_skill_criticaldamage_01",
+    "icn_skill_c150_ult"
+  ],
+  "Skill1Id": "1150101",
+  "Skill2Id": "2150201",
+  "UltiSkillId": "1150301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c150/images"
+}

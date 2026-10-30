@@ -1,0 +1,30 @@
+{
+ "code": "c232",
+ "ResourceId": 232,
+ "nameCode": "5043",
+ "中文名": "诺雅",
+ "英文名": "Noah",
+ "稀有度": "SSR",
+ "企业": "朝圣者",
+ "职业": "防御",
+ "属性": "风压",
+ "爆裂": "爆裂II",
+ "部队": "继承者部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c232_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_defup_01",
+  "icn_skill_attention_01",
+  "icn_skill_c232_ult"
+ ],
+ "Skill1Id": "2232101",
+ "Skill2Id": "2232201",
+ "UltiSkillId": "1232301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"107\"}",
+ "images_dir": "cn/characters/c232/images"
+}

@@ -1,0 +1,32 @@
+{
+ "code": "c016",
+ "ResourceId": 16,
+ "nameCode": "5129",
+ "中文名": "拉毗：小红帽",
+ "英文名": "Rapi: Red Hood",
+ "稀有度": "SSR",
+ "企业": "极乐净土",
+ "职业": "火力",
+ "属性": "燃烧",
+ "爆裂": "爆裂III",
+ "部队": "反击部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c016_00_s.png",
+  "si_c016_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_stickyprojectile_01",
+  "icn_skill_c016_ult"
+ ],
+ "Skill1Id": "2016101",
+ "Skill2Id": "2016201",
+ "UltiSkillId": "1016301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"75\"}",
+ "images_dir": "cn/characters/c016/images"
+}

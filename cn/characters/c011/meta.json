@@ -1,0 +1,32 @@
+{
+ "code": "c011",
+ "ResourceId": 11,
+ "nameCode": "3002",
+ "中文名": "尼恩",
+ "英文名": "Neon",
+ "稀有度": "SR",
+ "企业": "极乐净土",
+ "职业": "辅助",
+ "属性": "燃烧",
+ "爆裂": "爆裂I",
+ "部队": "反击部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c011_00_s.png",
+  "si_c011_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statcritical_01",
+  "icn_skill_statcritical_01",
+  "icn_skill_c011_ult"
+ ],
+ "Skill1Id": "2011101",
+ "Skill2Id": "2011201",
+ "UltiSkillId": "1011301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"86\"}",
+ "images_dir": "cn/characters/c011/images"
+}

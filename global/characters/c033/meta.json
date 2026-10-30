@@ -1,0 +1,30 @@
+{
+  "code": "c033",
+  "ResourceId": 33,
+  "nameCode": "5082",
+  "中文名": "基里",
+  "英文名": "Quiry",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "辅助",
+  "属性": "风压",
+  "爆裂": "爆裂III",
+  "部队": "A.C.P.U.",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c033_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_stathp_01",
+    "icn_skill_c033_ult"
+  ],
+  "Skill1Id": "2033101",
+  "Skill2Id": "2033201",
+  "UltiSkillId": "1033301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"98\"}",
+  "images_dir": "global/characters/c033/images"
+}

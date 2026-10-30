@@ -1,0 +1,32 @@
+{
+  "code": "c403",
+  "ResourceId": 403,
+  "nameCode": "5121",
+  "中文名": "坎西：逃生女王",
+  "英文名": "Quency: Escape Queen",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "真善美",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c403_00_s.png",
+    "si_c403_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damageshareinstant",
+    "icn_skill_atkup_01",
+    "icn_skill_c403_ult"
+  ],
+  "Skill1Id": "2403101",
+  "Skill2Id": "2403201",
+  "UltiSkillId": "1403301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"78\"}",
+  "images_dir": "global/characters/c403/images"
+}

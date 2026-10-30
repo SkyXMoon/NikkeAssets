@@ -1,0 +1,30 @@
+{
+  "code": "c226",
+  "ResourceId": 226,
+  "nameCode": "5123",
+  "中文名": "长发公主：纯洁恩典",
+  "英文名": "Rapunzel: Pure Grace",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "防御",
+  "属性": "铁甲",
+  "爆裂": "爆裂I",
+  "部队": "女神部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c226_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_barrier_01",
+    "icn_skill_healbarrier_01",
+    "icn_skill_c226_ult"
+  ],
+  "Skill1Id": "2226101",
+  "Skill2Id": "2226201",
+  "UltiSkillId": "1226301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"92\"}",
+  "images_dir": "global/characters/c226/images"
+}

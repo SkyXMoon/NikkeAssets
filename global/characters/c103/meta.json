@@ -1,0 +1,32 @@
+{
+  "code": "c103",
+  "ResourceId": 103,
+  "nameCode": "5177",
+  "中文名": "拉普拉斯：究极英雄",
+  "英文名": "Laplace: Ultimate Hero",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "风压",
+  "爆裂": "爆裂III",
+  "部队": "墨提斯部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c103_00_s.png",
+    "si_c103_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_stathp_01",
+    "icn_skill_c103_ult"
+  ],
+  "Skill1Id": "2103101",
+  "Skill2Id": "2103201",
+  "UltiSkillId": "1103301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+  "images_dir": "global/characters/c103/images"
+}

@@ -1,0 +1,30 @@
+{
+ "code": "c161",
+ "ResourceId": 161,
+ "nameCode": "3006",
+ "中文名": "米哈拉",
+ "英文名": "Mihara",
+ "稀有度": "SR",
+ "企业": "米西利斯",
+ "职业": "火力",
+ "属性": "水冷",
+ "爆裂": "爆裂III",
+ "部队": "警备卫士部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c161_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_criticaldamage_01",
+  "icn_skill_statcritical_01",
+  "icn_skill_c161_ult"
+ ],
+ "Skill1Id": "2161101",
+ "Skill2Id": "2161201",
+ "UltiSkillId": "1161301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"10350\", \"attack\": \"540\", \"defense\": \"81\"}",
+ "images_dir": "cn/characters/c161/images"
+}

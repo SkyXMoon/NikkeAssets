@@ -1,0 +1,30 @@
+{
+  "code": "c071",
+  "ResourceId": 71,
+  "nameCode": "5019",
+  "中文名": "索林",
+  "英文名": "Soline",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "火力",
+  "属性": "铁甲",
+  "爆裂": "爆裂III",
+  "部队": "无限轨道部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c071_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_rateoffire_01",
+    "icn_skill_statcritical_01",
+    "icn_skill_c071_ult"
+  ],
+  "Skill1Id": "2071101",
+  "Skill2Id": "2071201",
+  "UltiSkillId": "1071301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"78\"}",
+  "images_dir": "global/characters/c071/images"
+}

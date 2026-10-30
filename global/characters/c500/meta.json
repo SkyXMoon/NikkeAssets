@@ -1,0 +1,30 @@
+{
+  "code": "c500",
+  "ResourceId": 500,
+  "nameCode": "5107",
+  "中文名": "伊莱格",
+  "英文名": "Elegg",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "辅助",
+  "属性": "电击",
+  "爆裂": "爆裂II",
+  "部队": "电力冲击",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c500_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_burstgaugespeedup_01",
+    "icn_skill_c500_ult"
+  ],
+  "Skill1Id": "2500101",
+  "Skill2Id": "2500201",
+  "UltiSkillId": "1500301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+  "images_dir": "global/characters/c500/images"
+}

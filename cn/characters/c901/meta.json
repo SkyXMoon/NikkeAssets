@@ -1,0 +1,30 @@
+{
+ "code": "c901",
+ "ResourceId": 901,
+ "nameCode": "1029",
+ "中文名": "舒恩",
+ "英文名": "Syuen",
+ "稀有度": "R",
+ "企业": "米西利斯",
+ "职业": "辅助",
+ "属性": "水冷",
+ "爆裂": "爆裂I",
+ "部队": "反击部队",
+ "立绘": "否",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c901_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_heal_01",
+  "icn_skill_defup_01",
+  "icn_skill_c901_ult"
+ ],
+ "Skill1Id": "2901101",
+ "Skill2Id": "2901201",
+ "UltiSkillId": "1901301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"400\", \"defense\": \"69\"}",
+ "images_dir": "cn/characters/c901/images"
+}

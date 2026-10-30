@@ -1,0 +1,30 @@
+{
+  "code": "c240",
+  "ResourceId": 240,
+  "nameCode": "3004",
+  "中文名": "鲁玛妮",
+  "英文名": "Rumani",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "防御",
+  "属性": "燃烧",
+  "爆裂": "爆裂I",
+  "部队": "生命补药部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c240_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_stathp_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c240_ult"
+  ],
+  "Skill1Id": "2240101",
+  "Skill2Id": "2240201",
+  "UltiSkillId": "1240301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"107\"}",
+  "images_dir": "global/characters/c240/images"
+}

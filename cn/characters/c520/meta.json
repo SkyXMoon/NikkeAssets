@@ -1,0 +1,30 @@
+{
+ "code": "c520",
+ "ResourceId": 520,
+ "nameCode": "5135",
+ "中文名": "布蕾德",
+ "英文名": "Bready",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "火力",
+ "属性": "水冷",
+ "爆裂": "爆裂III",
+ "部队": "Locale_Character:cookingoil_name",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c520_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_damage_01",
+  "icn_skill_c520_ult"
+ ],
+ "Skill1Id": "2520101",
+ "Skill2Id": "2520201",
+ "UltiSkillId": "1520301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+ "images_dir": "cn/characters/c520/images"
+}

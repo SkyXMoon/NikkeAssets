@@ -1,0 +1,34 @@
+{
+  "code": "c030",
+  "ResourceId": 30,
+  "nameCode": "5016",
+  "中文名": "波莉",
+  "英文名": "Poli",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "防御",
+  "属性": "水冷",
+  "爆裂": "爆裂II",
+  "部队": "A.C.P.U.",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c030_00_s.png",
+    "si_c030_01_s.png",
+    "si_c030_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkdown_01",
+    "icn_skill_defup_01",
+    "icn_skill_c030_ult"
+  ],
+  "Skill1Id": "2030101",
+  "Skill2Id": "1030201",
+  "UltiSkillId": "1030301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"106\"}",
+  "images_dir": "global/characters/c030/images"
+}

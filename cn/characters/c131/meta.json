@@ -1,0 +1,32 @@
+{
+ "code": "c131",
+ "ResourceId": 131,
+ "nameCode": "5027",
+ "中文名": "佩珀",
+ "英文名": "Pepper",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "辅助",
+ "属性": "风压",
+ "爆裂": "爆裂I",
+ "部队": "六翼天使部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c131_00_s.png",
+  "si_c131_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_heal_01",
+  "icn_skill_atkdown_01",
+  "icn_skill_c131_ult"
+ ],
+ "Skill1Id": "2131101",
+ "Skill2Id": "1131201",
+ "UltiSkillId": "1131301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"96\"}",
+ "images_dir": "cn/characters/c131/images"
+}

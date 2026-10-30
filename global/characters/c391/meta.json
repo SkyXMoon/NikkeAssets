@@ -1,0 +1,32 @@
+{
+  "code": "c391",
+  "ResourceId": 391,
+  "nameCode": "5077",
+  "中文名": "爱因",
+  "英文名": "Ein",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "电击",
+  "爆裂": "爆裂III",
+  "部队": "校园社团",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c391_00_s.png",
+    "si_c391_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_damage_01",
+    "icn_skill_c391_ult"
+  ],
+  "Skill1Id": "2391101",
+  "Skill2Id": "2391201",
+  "UltiSkillId": "1391301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+  "images_dir": "global/characters/c391/images"
+}

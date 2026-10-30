@@ -1,0 +1,29 @@
+{
+  "code": "c012",
+  "ResourceId": 12,
+  "nameCode": "3005",
+  "中文名": "阿妮斯",
+  "英文名": "Anis",
+  "稀有度": "SR",
+  "企业": "泰特拉",
+  "职业": "防御",
+  "属性": "铁甲",
+  "爆裂": "爆裂II",
+  "部队": "反击部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c012_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_defup_01",
+    "icn_skill_c012_ult"
+  ],
+  "Skill1Id": "2012101",
+  "Skill2Id": "1012201",
+  "UltiSkillId": "1012301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"12650\", \"attack\": \"360\", \"defense\": \"97\"}",
+  "images_dir": "global/characters/c012/images"
+}

@@ -1,0 +1,30 @@
+{
+  "code": "c405",
+  "ResourceId": 405,
+  "nameCode": "5183",
+  "中文名": "森：疾速兔女郎",
+  "英文名": "Sin: Swift Bunny",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "真善美",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c405_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damage_01",
+    "icn_skill_statcritical_01",
+    "icn_skill_c405_ult"
+  ],
+  "Skill1Id": "2405101",
+  "Skill2Id": "2405201",
+  "UltiSkillId": "1405301",
+  "combat": "",
+  "images_dir": "global/characters/c405/images"
+}

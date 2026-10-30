@@ -1,0 +1,30 @@
+{
+  "code": "c472",
+  "ResourceId": 472,
+  "nameCode": "5186",
+  "中文名": "红莲：弑神",
+  "英文名": "Scarlet: Goddeath",
+  "稀有度": "SSR",
+  "企业": "朝圣者",
+  "职业": "火力",
+  "属性": "燃烧",
+  "爆裂": "爆裂III",
+  "部队": "女神部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c472_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_statpenetration_01",
+    "icn_skill_statcritical_01",
+    "icn_skill_c472_ult"
+  ],
+  "Skill1Id": "2472101",
+  "Skill2Id": "2472201",
+  "UltiSkillId": "1472301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c472/images"
+}

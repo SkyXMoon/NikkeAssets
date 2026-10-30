@@ -1,0 +1,30 @@
+{
+ "code": "c110",
+ "ResourceId": 110,
+ "nameCode": "5025",
+ "中文名": "克拉乌",
+ "英文名": "Crow",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "防御",
+ "属性": "燃烧",
+ "爆裂": "爆裂III",
+ "部队": "外来者部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c110_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkdown_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c110_ult"
+ ],
+ "Skill1Id": "2110101",
+ "Skill2Id": "2110201",
+ "UltiSkillId": "1110301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"95\"}",
+ "images_dir": "cn/characters/c110/images"
+}

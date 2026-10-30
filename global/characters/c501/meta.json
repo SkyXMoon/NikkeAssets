@@ -1,0 +1,32 @@
+{
+  "code": "c501",
+  "ResourceId": 501,
+  "nameCode": "5112",
+  "中文名": "特罗尼",
+  "英文名": "Trony",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "燃烧",
+  "爆裂": "爆裂III",
+  "部队": "电力冲击",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c501_00_s.png",
+    "si_c501_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damageshareinstant",
+    "icn_skill_sharedamageincrease",
+    "icn_skill_c501_ult"
+  ],
+  "Skill1Id": "2501101",
+  "Skill2Id": "2501201",
+  "UltiSkillId": "1501301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+  "images_dir": "global/characters/c501/images"
+}

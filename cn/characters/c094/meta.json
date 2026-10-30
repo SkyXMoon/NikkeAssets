@@ -1,0 +1,30 @@
+{
+ "code": "c094",
+ "ResourceId": 94,
+ "nameCode": "5148",
+ "中文名": "贝斯蒂：战术升级",
+ "英文名": "Vesti: Tactical Upgrade",
+ "稀有度": "SSR",
+ "企业": "极乐净土",
+ "职业": "火力",
+ "属性": "燃烧",
+ "爆裂": "爆裂III",
+ "部队": "特种部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c094_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_chargedamage_01",
+  "icn_skill_damage_01",
+  "icn_skill_c094_ult"
+ ],
+ "Skill1Id": "2094101",
+ "Skill2Id": "2094201",
+ "UltiSkillId": "1094301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+ "images_dir": "cn/characters/c094/images"
+}

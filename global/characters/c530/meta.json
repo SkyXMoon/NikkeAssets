@@ -1,0 +1,30 @@
+{
+  "code": "c530",
+  "ResourceId": 530,
+  "nameCode": "5188",
+  "中文名": "思凯",
+  "英文名": "Sky",
+  "稀有度": "SSR",
+  "企业": "极乐净土",
+  "职业": "辅助",
+  "属性": "铁质",
+  "爆裂": "爆裂I",
+  "部队": "超地平线",
+  "立绘": "否",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c530_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_defup_01",
+    "icn_skill_statcritical_01",
+    "icn_skill_c302_ult"
+  ],
+  "Skill1Id": "2302101",
+  "Skill2Id": "1302201",
+  "UltiSkillId": "1302301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+  "images_dir": "global/characters/c530/images"
+}

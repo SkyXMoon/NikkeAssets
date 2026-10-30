@@ -1,0 +1,30 @@
+{
+ "code": "c521",
+ "ResourceId": 521,
+ "nameCode": "5136",
+ "中文名": "克劳斯特",
+ "英文名": "Crust",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "辅助",
+ "属性": "水冷",
+ "爆裂": "爆裂II",
+ "部队": "Locale_Character:cookingoil_name",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c521_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_debuffremove_01",
+  "icn_skill_c521_ult"
+ ],
+ "Skill1Id": "2521101",
+ "Skill2Id": "2521201",
+ "UltiSkillId": "1521301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"98\"}",
+ "images_dir": "cn/characters/c521/images"
+}

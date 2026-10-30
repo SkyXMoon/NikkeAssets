@@ -1,0 +1,30 @@
+{
+  "code": "c801",
+  "ResourceId": 801,
+  "nameCode": "5090",
+  "中文名": "帕瓦",
+  "英文名": "Power",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "火力",
+  "属性": "燃烧",
+  "爆裂": "爆裂III",
+  "部队": "恶魔猎人",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c801_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_statexplosion_01",
+    "icn_skill_c801_ult"
+  ],
+  "Skill1Id": "2801101",
+  "Skill2Id": "2801201",
+  "UltiSkillId": "1801301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+  "images_dir": "global/characters/c801/images"
+}

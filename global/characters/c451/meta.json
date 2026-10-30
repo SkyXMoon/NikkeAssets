@@ -1,0 +1,36 @@
+{
+  "code": "c451",
+  "ResourceId": 451,
+  "nameCode": "5100",
+  "中文名": "蒂亚",
+  "英文名": "Tia",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "防御",
+  "属性": "铁甲",
+  "爆裂": "爆裂I",
+  "部队": "耀眼珍珠",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02",
+    "03"
+  ],
+  "si_files": [
+    "si_c451_00_s.png",
+    "si_c451_01_s.png",
+    "si_c451_02_s.png",
+    "si_c451_03_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_attention_01",
+    "icn_skill_c451_ult"
+  ],
+  "Skill1Id": "2451101",
+  "Skill2Id": "2451201",
+  "UltiSkillId": "1451301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"107\"}",
+  "images_dir": "global/characters/c451/images"
+}

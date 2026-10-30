@@ -1,0 +1,36 @@
+{
+  "code": "c850",
+  "ResourceId": 850,
+  "nameCode": "5142",
+  "中文名": "伊芙",
+  "英文名": "EVE",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "火力",
+  "属性": "铁甲",
+  "爆裂": "爆裂III",
+  "部队": "第七空降小队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02",
+    "03"
+  ],
+  "si_files": [
+    "si_c850_00_s.png",
+    "si_c850_01_s.png",
+    "si_c850_02_s.png",
+    "si_c850_03_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_statcritical_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c850_ult"
+  ],
+  "Skill1Id": "2850101",
+  "Skill2Id": "2850201",
+  "UltiSkillId": "1850301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+  "images_dir": "global/characters/c850/images"
+}

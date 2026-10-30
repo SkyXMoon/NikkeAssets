@@ -1,0 +1,34 @@
+{
+  "code": "c870",
+  "ResourceId": 870,
+  "nameCode": "5179",
+  "中文名": "QUEEN（真）",
+  "英文名": "Queen (Makoto)",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "火力",
+  "属性": "燃烧",
+  "爆裂": "爆裂III",
+  "部队": "心之怪盗团",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c870_00_s.png",
+    "si_c870_01_s.png",
+    "si_c870_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damageshareinstant",
+    "icn_skill_atkup_01",
+    "icn_skill_c870_ult"
+  ],
+  "Skill1Id": "2870101",
+  "Skill2Id": "2870201",
+  "UltiSkillId": "1870301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"86\"}",
+  "images_dir": "global/characters/c870/images"
+}

@@ -1,0 +1,30 @@
+{
+ "code": "c502",
+ "ResourceId": 502,
+ "nameCode": "5146",
+ "中文名": "伊莱格：BOOM与惊吓",
+ "英文名": "Elegg: Boom and Shock",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "火力",
+ "属性": "水冷",
+ "爆裂": "爆裂III",
+ "部队": "电力冲击",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c502_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_damage_01",
+  "icn_skill_c502_ult"
+ ],
+ "Skill1Id": "2502101",
+ "Skill2Id": "2502201",
+ "UltiSkillId": "1502301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"75\"}",
+ "images_dir": "cn/characters/c502/images"
+}

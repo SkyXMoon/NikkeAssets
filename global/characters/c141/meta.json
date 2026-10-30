@@ -1,0 +1,32 @@
+{
+  "code": "c141",
+  "ResourceId": 141,
+  "nameCode": "5028",
+  "中文名": "米尔克",
+  "英文名": "Milk",
+  "稀有度": "SSR",
+  "企业": "泰特拉",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂I",
+  "部队": "咖啡厅甜心部队",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c141_00_s.png",
+    "si_c141_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_criticaldamage_01",
+    "icn_skill_c141_ult"
+  ],
+  "Skill1Id": "1141101",
+  "Skill2Id": "2141201",
+  "UltiSkillId": "1141301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+  "images_dir": "global/characters/c141/images"
+}

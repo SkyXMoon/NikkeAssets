@@ -1,0 +1,34 @@
+{
+ "code": "c470",
+ "ResourceId": 470,
+ "nameCode": "5101",
+ "中文名": "小红帽",
+ "英文名": "Red Hood",
+ "稀有度": "SSR",
+ "企业": "朝圣者",
+ "职业": "火力",
+ "属性": "铁甲",
+ "爆裂": "5",
+ "部队": "女神部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01",
+  "02"
+ ],
+ "si_files": [
+  "si_c470_00_s.png",
+  "si_c470_01_s.png",
+  "si_c470_02_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_chargedamage_01",
+  "icn_skill_statpenetration_01",
+  "icn_skill_c470_ult"
+ ],
+ "Skill1Id": "2470101",
+ "Skill2Id": "2470201",
+ "UltiSkillId": "1470301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
+ "images_dir": "cn/characters/c470/images"
+}

@@ -1,0 +1,34 @@
+{
+  "code": "c840",
+  "ResourceId": 840,
+  "nameCode": "5152",
+  "中文名": "艾达",
+  "英文名": "Ada",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "火力",
+  "属性": "电击",
+  "爆裂": "爆裂III",
+  "部队": "B.S.T.",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02"
+  ],
+  "si_files": [
+    "si_c840_00_s.png",
+    "si_c840_01_s.png",
+    "si_c840_02_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_damage_01",
+    "icn_skill_c840_ult"
+  ],
+  "Skill1Id": "2840101",
+  "Skill2Id": "2840201",
+  "UltiSkillId": "1840301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+  "images_dir": "global/characters/c840/images"
+}

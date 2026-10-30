@@ -1,0 +1,36 @@
+{
+  "code": "c450",
+  "ResourceId": 450,
+  "nameCode": "5099",
+  "中文名": "娜嘉",
+  "英文名": "Naga",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "辅助",
+  "属性": "电击",
+  "爆裂": "爆裂II",
+  "部队": "耀眼珍珠",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02",
+    "03"
+  ],
+  "si_files": [
+    "si_c450_00_s.png",
+    "si_c450_01_s.png",
+    "si_c450_02_s.png",
+    "si_c450_03_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_healcover_01",
+    "icn_skill_heal_01",
+    "icn_skill_c450_ult"
+  ],
+  "Skill1Id": "2450101",
+  "Skill2Id": "2450201",
+  "UltiSkillId": "1450301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"96\"}",
+  "images_dir": "global/characters/c450/images"
+}

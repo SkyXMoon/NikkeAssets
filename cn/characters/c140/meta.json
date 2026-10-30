@@ -1,0 +1,34 @@
+{
+ "code": "c140",
+ "ResourceId": 140,
+ "nameCode": "5002",
+ "中文名": "舒格",
+ "英文名": "Sugar",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "火力",
+ "属性": "铁甲",
+ "爆裂": "爆裂III",
+ "部队": "咖啡厅甜心部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01",
+  "02"
+ ],
+ "si_files": [
+  "si_c140_00_s.png",
+  "si_c140_01_s.png",
+  "si_c140_02_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statreloadtime_01",
+  "icn_skill_statcritical_01",
+  "icn_skill_c140_ult"
+ ],
+ "Skill1Id": "2140101",
+ "Skill2Id": "2140201",
+ "UltiSkillId": "1140301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"86\"}",
+ "images_dir": "cn/characters/c140/images"
+}

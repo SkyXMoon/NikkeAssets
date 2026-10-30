@@ -1,0 +1,30 @@
+{
+  "code": "c193",
+  "ResourceId": 193,
+  "nameCode": "3011",
+  "中文名": "尼夫",
+  "英文名": "Neve",
+  "稀有度": "SR",
+  "企业": "泰特拉",
+  "职业": "火力",
+  "属性": "水冷",
+  "爆裂": "爆裂III",
+  "部队": "无极限部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c193_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_statpenetration_01",
+    "icn_skill_c193_ult"
+  ],
+  "Skill1Id": "1193101",
+  "Skill2Id": "2193201",
+  "UltiSkillId": "1193301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"10350\", \"attack\": \"540\", \"defense\": \"78\"}",
+  "images_dir": "global/characters/c193/images"
+}

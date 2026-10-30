@@ -1,0 +1,30 @@
+{
+  "code": "c104",
+  "ResourceId": 104,
+  "nameCode": "5181",
+  "中文名": "德雷克：终极反派",
+  "英文名": "Drake: Great Villain",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "防御",
+  "属性": "风压",
+  "爆裂": "爆裂III",
+  "部队": "墨提斯部队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c104_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_damage_01",
+    "icn_skill_stathp_01",
+    "icn_skill_c104_ult"
+  ],
+  "Skill1Id": "2104101",
+  "Skill2Id": "2104201",
+  "UltiSkillId": "1104301",
+  "combat": "",
+  "images_dir": "global/characters/c104/images"
+}

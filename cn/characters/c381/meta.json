@@ -1,0 +1,32 @@
+{
+ "code": "c381",
+ "ResourceId": 381,
+ "nameCode": "5054",
+ "中文名": "饼干",
+ "英文名": "Biscuit",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "辅助",
+ "属性": "电击",
+ "爆裂": "爆裂II",
+ "部队": "快乐动物园部队",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01"
+ ],
+ "si_files": [
+  "si_c381_00_s.png",
+  "si_c381_01_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_statcritical_01",
+  "icn_skill_heal_01",
+  "icn_skill_c381_ult"
+ ],
+ "Skill1Id": "2381101",
+ "Skill2Id": "2381201",
+ "UltiSkillId": "1381301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"98\"}",
+ "images_dir": "cn/characters/c381/images"
+}

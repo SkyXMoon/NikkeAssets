@@ -1,0 +1,30 @@
+{
+  "code": "c852",
+  "ResourceId": 852,
+  "nameCode": "3016",
+  "中文名": "百合",
+  "英文名": "Lily",
+  "稀有度": "SR",
+  "企业": "反常",
+  "职业": "辅助",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "第五空降小队",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c852_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_healcover_01",
+    "icn_skill_c852_ult"
+  ],
+  "Skill1Id": "1852101",
+  "Skill2Id": "1852201",
+  "UltiSkillId": "1852301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"450\", \"defense\": \"78\"}",
+  "images_dir": "global/characters/c852/images"
+}

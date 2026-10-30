@@ -1,0 +1,30 @@
+{
+ "code": "c302",
+ "ResourceId": 302,
+ "nameCode": "1015",
+ "中文名": "产品08",
+ "英文名": "Product 08",
+ "稀有度": "R",
+ "企业": "米西利斯",
+ "职业": "辅助",
+ "属性": "电击",
+ "爆裂": "爆裂I",
+ "部队": "替代者部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c302_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_defup_01",
+  "icn_skill_statcritical_01",
+  "icn_skill_c302_ult"
+ ],
+ "Skill1Id": "2302101",
+ "Skill2Id": "1302201",
+ "UltiSkillId": "1302301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"11500\", \"attack\": \"400\", \"defense\": \"67\"}",
+ "images_dir": "cn/characters/c302/images"
+}

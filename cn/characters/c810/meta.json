@@ -1,0 +1,36 @@
+{
+ "code": "c810",
+ "ResourceId": 810,
+ "nameCode": "5094",
+ "中文名": "2B",
+ "英文名": "2B",
+ "稀有度": "SSR",
+ "企业": "反常",
+ "职业": "防御",
+ "属性": "燃烧",
+ "爆裂": "爆裂III",
+ "部队": "寄叶",
+ "立绘": "是",
+ "skins": [
+  "00",
+  "01",
+  "02",
+  "03"
+ ],
+ "si_files": [
+  "si_c810_00_s.png",
+  "si_c810_01_s.png",
+  "si_c810_02_s.png",
+  "si_c810_03_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_stathp_01",
+  "icn_skill_atkup_01",
+  "icn_skill_c810_ult"
+ ],
+ "Skill1Id": "2810101",
+ "Skill2Id": "2810201",
+ "UltiSkillId": "1810301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"16500\", \"attack\": \"400\", \"defense\": \"110\"}",
+ "images_dir": "cn/characters/c810/images"
+}

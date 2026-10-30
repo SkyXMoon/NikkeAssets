@@ -1,0 +1,31 @@
+{
+  "code": "c400",
+  "ResourceId": 400,
+  "nameCode": "5055",
+  "中文名": "吉尔提",
+  "英文名": "Guilty",
+  "稀有度": "SSR",
+  "企业": "米西利斯",
+  "职业": "火力",
+  "属性": "风压",
+  "爆裂": "爆裂II",
+  "部队": "真善美",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01"
+  ],
+  "si_files": [
+    "si_c400_00_s.png",
+    "si_c400_01_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_c400_ult"
+  ],
+  "Skill1Id": "2400101",
+  "Skill2Id": "2400201",
+  "UltiSkillId": "1400301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"86\"}",
+  "images_dir": "global/characters/c400/images"
+}

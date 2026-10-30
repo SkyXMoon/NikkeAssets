@@ -1,0 +1,35 @@
+{
+  "code": "c811",
+  "ResourceId": 811,
+  "nameCode": "5095",
+  "中文名": "A2",
+  "英文名": "A2",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "火力",
+  "属性": "燃烧",
+  "爆裂": "爆裂III",
+  "部队": "寄叶",
+  "立绘": "是",
+  "skins": [
+    "00",
+    "01",
+    "02",
+    "03"
+  ],
+  "si_files": [
+    "si_c811_00_s.png",
+    "si_c811_01_s.png",
+    "si_c811_02_s.png",
+    "si_c811_03_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_c811_ult"
+  ],
+  "Skill1Id": "2811101",
+  "Skill2Id": "2811201",
+  "UltiSkillId": "1811301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"88\"}",
+  "images_dir": "global/characters/c811/images"
+}

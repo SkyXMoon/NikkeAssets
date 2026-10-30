@@ -1,0 +1,30 @@
+{
+ "code": "c272",
+ "ResourceId": 272,
+ "nameCode": "5049",
+ "中文名": "露姬",
+ "英文名": "Rouge",
+ "稀有度": "SSR",
+ "企业": "泰特拉",
+ "职业": "辅助",
+ "属性": "电击",
+ "爆裂": "爆裂I",
+ "部队": "777部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c272_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_stathp_01",
+  "icn_skill_stathp_01",
+  "icn_skill_c272_ult"
+ ],
+ "Skill1Id": "2272101",
+ "Skill2Id": "2272201",
+ "UltiSkillId": "1272301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+ "images_dir": "cn/characters/c272/images"
+}
