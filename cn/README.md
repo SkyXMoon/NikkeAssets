@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: d3a1ba1f58fa9696e95b19f8bb7f2aba_f86662a3d3b211f19101525400de85a5
-    ReservedCode1: G3UHen+BjycKgZOA4f/uSmkmPJ0llrBiwAVpHXUcYwgfNxmesK8V3hreg3x2I3Nv9wExBlC8wFqAsTK7RGPeZRop7yak3VnbWb6OIyV+EU9x5sE09l0vGQcwuDneWRBKjqvAnU5kqtlmaWDSUIP0L2AZNEKshAg0MspfhgQ2Ba0nDZCpQ643d0SRNn4=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: d3a1ba1f58fa9696e95b19f8bb7f2aba_f86662a3d3b211f19101525400de85a5
-    ReservedCode2: G3UHen+BjycKgZOA4f/uSmkmPJ0llrBiwAVpHXUcYwgfNxmesK8V3hreg3x2I3Nv9wExBlC8wFqAsTK7RGPeZRop7yak3VnbWb6OIyV+EU9x5sE09l0vGQcwuDneWRBKjqvAnU5kqtlmaWDSUIP0L2AZNEKshAg0MspfhgQ2Ba0nDZCpQ643d0SRNn4=
----
 
 # NIKKE 国服（CN）数据分区
 
