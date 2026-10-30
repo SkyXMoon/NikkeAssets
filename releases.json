@@ -1,0 +1,30 @@
+{
+ "schema": "NIKKE角色数据仓库版本记录",
+ "updated_at": "2026-10-30T16:16:12+0800",
+ "releases": {
+  "global": {
+   "server": "Global",
+   "status": "delivered",
+   "client_version": "578481",
+   "core_revision": 578468,
+   "data_updated_at": "2026-10-30T16:16:12+0800",
+   "character_count": 213,
+   "image_count": 1810,
+   "skill_icon_count": 502,
+   "squad_count": 69,
+   "squad_icon_count": 49
+  },
+  "cn": {
+   "server": "CN",
+   "status": "delivered",
+   "client_version": "430767",
+   "core_revision": null,
+   "data_updated_at": "2026-10-29T23:56:00+08:00",
+   "character_count": 161,
+   "image_count": 1270,
+   "skill_icon_count": 265,
+   "squad_count": 57,
+   "squad_icon_count": 50
+  }
+ }
+}
