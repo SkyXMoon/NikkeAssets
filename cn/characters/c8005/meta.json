@@ -1,0 +1,30 @@
+{
+ "code": "c8005",
+ "ResourceId": 8005,
+ "nameCode": "5301",
+ "中文名": "画皮",
+ "英文名": "",
+ "稀有度": "SSR",
+ "企业": "米西利斯",
+ "职业": "火力",
+ "属性": "水冷",
+ "爆裂": "爆裂III",
+ "部队": "聊斋志异部队",
+ "立绘": "是",
+ "skins": [
+  "00"
+ ],
+ "si_files": [
+  "si_c8005_00_s.png"
+ ],
+ "skill_icons": [
+  "icn_skill_atkup_01",
+  "icn_skill_penetrationdamage_01",
+  "icn_skill_c8005_ult"
+ ],
+ "Skill1Id": "28005101",
+ "Skill2Id": "28005201",
+ "UltiSkillId": "18005301",
+ "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"90\"}",
+ "images_dir": "cn/characters/c8005/images"
+}

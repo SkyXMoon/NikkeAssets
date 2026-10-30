@@ -1,30 +1,30 @@
 {
- "code": "c832",
- "ResourceId": 832,
- "nameCode": "5120",
- "中文名": "玛丽",
- "英文名": "Mari",
- "稀有度": "SSR",
- "企业": "反常",
- "职业": "辅助",
- "属性": "电击",
- "爆裂": "爆裂II",
- "部队": "NERV",
- "立绘": "是",
- "skins": [
-  "00"
- ],
- "si_files": [
-  "si_c832_00_s.png"
- ],
- "skill_icons": [
-  "icn_skill_barrierdamage_01",
-  "icn_skill_atkup_01",
-  "icn_skill_c832_ult"
- ],
- "Skill1Id": "2832101",
- "Skill2Id": "1832201",
- "UltiSkillId": "1832301",
- "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
- "images_dir": "cn/characters/c832/images"
+  "code": "c832",
+  "ResourceId": 832,
+  "nameCode": "5120",
+  "中文名": "玛丽",
+  "英文名": "Mari",
+  "稀有度": "SSR",
+  "企业": "反常",
+  "职业": "辅助",
+  "属性": "电击",
+  "爆裂": "爆裂II",
+  "部队": "NERV",
+  "立绘": "是",
+  "skins": [
+    "00"
+  ],
+  "si_files": [
+    "si_c832_00_s.png"
+  ],
+  "skill_icons": [
+    "icn_skill_barrierdamage_01",
+    "icn_skill_atkup_01",
+    "icn_skill_c832_ult"
+  ],
+  "Skill1Id": "2011101",
+  "Skill2Id": "2011101",
+  "UltiSkillId": "1011101",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"84\"}",
+  "images_dir": "cn/characters/c832/images"
 }

@@ -160,3 +160,5 @@
 1026,,,,907,谢芙蒂,Shifty,R,极乐净土,辅助,水冷,爆裂I,反击部队,否,"{""combatPowerLv200"": """", ""hp"": ""11500"", ""attack"": ""400"", ""defense"": ""80""}",2907101,2907201,1907301,icn_skill_c907_01,icn_skill_statreloadtime_01,icn_skill_c907_ult
 1027,,,,5006,桃乐丝,桃乐丝 (zh-CN),R,朝圣者,辅助,水冷,爆裂I,继承者部队,否,"{""combatPowerLv200"": """", ""hp"": ""11500"", ""attack"": ""400"", ""defense"": ""69""}",9010201,9010301,9010301,,,
 1029,,,,901,舒恩,Syuen,R,米西利斯,辅助,水冷,爆裂I,反击部队,否,"{""combatPowerLv200"": """", ""hp"": ""11500"", ""attack"": ""400"", ""defense"": ""69""}",2901101,2901201,1901301,icn_skill_heal_01,icn_skill_defup_01,icn_skill_c901_ult
+5300,5800401,1800401,5305,8004,婴宁,,SSR,米西利斯,辅助,水冷,爆裂II,聊斋志异部队,是,"{""combatPowerLv200"": """", ""hp"": ""15000"", ""attack"": ""500"", ""defense"": ""98""}",28004101,28004201,18004301,icn_skill_stathp_01,icn_skill_damage_01,icn_skill_c8004_ult
+5301,5800501,1800501,5101,8005,画皮,,SSR,米西利斯,火力,水冷,爆裂III,聊斋志异部队,是,"{""combatPowerLv200"": """", ""hp"": ""13500"", ""attack"": ""600"", ""defense"": ""90""}",28005101,28005201,18005301,icn_skill_atkup_01,icn_skill_penetrationdamage_01,icn_skill_c8005_ult

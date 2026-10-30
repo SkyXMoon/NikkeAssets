@@ -160,3 +160,5 @@ c308,308,1023,iDoll太阳,iDoll Sun,00,1,icn_skill_defup_01|icn_skill_atkup_01|i
 c907,907,1026,谢芙蒂,Shifty,00,1,icn_skill_c907_01|icn_skill_statreloadtime_01|icn_skill_c907_ult,cn/characters/c907,cn/characters/c907/meta.json,2907101,2907201,1907301
 c5006,5006,1027,桃乐丝,桃乐丝 (zh-CN),00,1,,cn/characters/c5006,cn/characters/c5006/meta.json,9010201,9010301,9010301
 c901,901,1029,舒恩,Syuen,00,1,icn_skill_heal_01|icn_skill_defup_01|icn_skill_c901_ult,cn/characters/c901,cn/characters/c901/meta.json,2901101,2901201,1901301
+c8004,8004,5300,婴宁,,00,1,icn_skill_stathp_01|icn_skill_damage_01|icn_skill_c8004_ult,cn/characters/c8004,cn/characters/c8004/meta.json,28004101,28004201,18004301
+c8005,8005,5301,画皮,,00,1,icn_skill_atkup_01|icn_skill_penetrationdamage_01|icn_skill_c8005_ult,cn/characters/c8005,cn/characters/c8005/meta.json,28005101,28005201,18005301
