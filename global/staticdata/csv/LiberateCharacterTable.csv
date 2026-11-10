@@ -1,0 +1,5 @@
+﻿Id,TypeGroupId,CharacterNameCode,MissionRenewType,MissionStepGroup,MissionMaxClearAmount,ScenarioId
+1,1000,5055,1,101,6,d_nikke_guilty_01
+2,1000,5078,1,201,6,d_nikke_quency_01
+3,1000,5059,1,301,6,d_nikke_sin_01
+4,2000,5056,1,401,6,d_nikke_nihilister_01

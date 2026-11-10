@@ -1,0 +1,1 @@
+{"table":"ItemEquipCombinationTable","schema_class":"ItemEquipCombinationRecord_Raw","source_version":"qa-261029-10b/579369","record_count":1,"fields":["Id","MaterialType","MaterialGrade","MaterialCount","OptionGroup"],"records":[{"Id":9701001,"MaterialType":5,"MaterialGrade":9,"MaterialCount":2,"OptionGroup":[{"OptionGroup":1},{"OptionGroup":0},{"OptionGroup":0}]}]}

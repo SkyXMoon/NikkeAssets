@@ -1,0 +1,2 @@
+﻿Id,ArenaType,Name,Order,Thumbnail,FreePlayCount,TicketId,TicketValue,TicketBuyCurrencyType,TicketBuyCurrencyValue,RecordMaxCount,Round,TimeLimit,Theme,ThemeTime,ConditionRewardGroup,VerificationTimeServer,VerificationTimeClient
+1,2,Locale_System:SPECIAL_ARENA,1,thumbnail_name,2,6002,1,99,100,50,3,30,7,2,2,150,200

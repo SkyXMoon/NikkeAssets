@@ -1,0 +1,1 @@
+{"table":"ItemEquipCombinationTable","schema_class":null,"source_version":"0.0.1","record_count":1,"fields":["id","material_type","material_grade","material_count","option_group"],"records":[{"id":9701001,"material_type":"ALL","material_grade":"T9","material_count":2,"option_group":[{"option_group":"CorporationType"},{"option_group":"None"},{"option_group":"None"}]}]}

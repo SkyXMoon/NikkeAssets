@@ -1,0 +1,1 @@
+{"table":"ArenaChampionTable","schema_class":"ArenaChampionRecord","source_version":"qa-261029-10b/579369","record_count":1,"fields":["Id","CharacterLv","BettingRewardId","BettingRewardMailKey","TeamCount","ReplayFailTime"],"records":[{"Id":1,"CharacterLv":400,"BettingRewardId":93000,"BettingRewardMailKey":"ARENA_CHAMPION_BETTING_REWARD","TeamCount":5,"ReplayFailTime":10}]}

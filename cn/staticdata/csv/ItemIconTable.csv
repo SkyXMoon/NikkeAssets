@@ -1,0 +1,2 @@
+﻿id,icon_id,item_type,item_sub_type,resource_id,name_localkey,description_localkey,item_rare
+30020099,3002099,Material,ItemIcon,icn_user_profile_icon_c011_99,Locale_Item:item_icon_name_wechat,Locale_Item:item_icon_description_wechat,SSR

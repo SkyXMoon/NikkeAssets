@@ -1,0 +1,1 @@
+{"table":"LobbyCharacterBackgroundTable","schema_class":"LobbyCharacterBackgroundRecord_Raw","source_version":"qa-261029-10b/579369","record_count":2,"fields":["Id","SiResourceId","ResourceId"],"records":[{"Id":1900,"SiResourceId":"CB_c019_00","ResourceId":"CB_c019_00"},{"Id":47200,"SiResourceId":"CB_c472_00","ResourceId":"CB_c472_00"}]}

@@ -1,0 +1,1 @@
+{"table":"ArenaChampionTable","schema_class":null,"source_version":"0.0.1","record_count":1,"fields":["id","character_lv","betting_reward_id","betting_reward_mail_key","team_count"],"records":[{"id":1,"character_lv":400,"betting_reward_id":93000,"betting_reward_mail_key":"ARENA_CHAMPION_BETTING_REWARD","team_count":5}]}

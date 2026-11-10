@@ -1,0 +1,4 @@
+﻿id,rarity,reward
+1,R,"{""reward_percent"":1000000,""percent_display_type"":""None"",""reward_type"":""Currency"",""reward_id"":9000,""reward_value"":150}"
+2,SR,"{""reward_percent"":1000000,""percent_display_type"":""None"",""reward_type"":""Currency"",""reward_id"":9000,""reward_value"":200}"
+3,SSR,"{""reward_percent"":1000000,""percent_display_type"":""None"",""reward_type"":""Currency"",""reward_id"":9000,""reward_value"":6000}"
