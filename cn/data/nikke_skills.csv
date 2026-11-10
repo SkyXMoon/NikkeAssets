@@ -68,11 +68,11 @@
 【无法移动】【持续{description_value_02}秒】</color>
 ■全体队友
 <color=#00AEFF>【获得的体力恢复量{description_value_03}% ▲】【持续{description_value_04}秒】</color>",爆裂技能,icn_skill_c160_ult
-170,217011,普丽瓦蒂,技能1,2170101,21701,EX弹匣,"■全爆裂时间开始时，全体队友
+170,217011,普丽瓦蒂,技能1,2170101,21701,,"■全爆裂时间开始时，全体队友
 <color=#00AEFF>【攻击力{description_value_01}%▲】【持续{description_value_02}秒】
 【换弹速度{description_value_03}%▲】【持续{description_value_04}秒】
 【最大装弹数{description_value_05}%▼】【持续{description_value_06}秒】</color>",技能1,icn_skill_atkup_01
-170,217011,普丽瓦蒂,技能2,2170201,21702,LD强袭,"■最后的子弹命中时，对目标造成
+170,217011,普丽瓦蒂,技能2,2170201,21702,,"■最后的子弹命中时，对目标造成
 <color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_01}%的额外伤害】
 【所受伤害{description_value_03}% ▲】【持续{description_value_04}秒】</color>
 ■最后的子弹命中时，若目标处于昏迷状态，
@@ -252,26 +252,22 @@
 ■自身体力为90%以上时，则对相同的目标敌人
 造成等于<color=#00AEFF>【<word_group=10025>最终</word_group>攻击力
 {description_value_02}%的额外伤害】</color>",爆裂技能,icn_skill_c071_ult
-72,207211,迪塞尔,技能1,2072101,20721,草莓香,"■全爆裂时间开始时，自身
+72,207211,迪塞尔,技能1,2072101,20721,,"■全爆裂时间开始时，自身
 <color=#00AEFF>【防御力{description_value_01}% ▲】【持续{description_value_02}秒】</color>
 ■在全爆裂时间持续过程中被攻击时，自身
 <color=#00AEFF>【恢复等于施展者<word_group=10025>最终</word_group>最大体力的{description_value_03}%】</color>",技能1,icn_skill_defup_01
-72,207211,迪塞尔,技能2,2072201,20722,草莓糖之力,"■普通攻击命中{description_value_01}次时，自身
-<color=#00AEFF>【草莓糖：最大装弹数 {description_value_02}% ▲】
-【叠加{description_value_04}次】【持续{description_value_03}秒】</color>
-■若自身处于草莓糖最大叠加状态，则解除叠加后，全体队友
-<color=#00AEFF>【子弹补充{description_value_05}%】</color>",技能2,icn_skill_statammo_01
-72,207211,迪塞尔,爆裂,1072301,10723,草莓打击,"■对攻击力最高的{description_value_01}名敌人造成等于
+72,207211,迪塞尔,技能2,2072201,20722,,,技能2,icn_skill_statammo_01
+72,207211,迪塞尔,爆裂,1072301,10723,,"■对攻击力最高的{description_value_01}名敌人造成等于
 <color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_02}%的伤害】
 【挑衅】【持续{description_value_03}秒】</color>
 ■自身
 <color=#00AEFF>【仅最大体力{description_value_04}%▲】【持续{description_value_05}秒】</color>",爆裂技能,icn_skill_c072_ult
-80,108011,桑迪,技能1,2080101,20801,维修工程,"■全蓄力攻击命中时，自身
+80,108011,桑迪,技能1,2080101,20801,,"■全蓄力攻击命中时，自身
 <color=#00AEFF>【技能2的<word_group=10031>冷却时间</word_group>{description_value_01}% ▼】</color>",技能1,icn_skill_statreloadtime_01
-80,108011,桑迪,技能2,1080201,10802,现场检查,"■自身
+80,108011,桑迪,技能2,1080201,10802,,"■自身
 <color=#00AEFF>【产生等于施展者<word_group=10025>最终</word_group>最大体力{description_value_01}%的队友通用<word_group=10023>护盾</word_group>】
 【持续{description_value_02}秒】</color>",技能2,icn_skill_barrier_01
-80,108011,桑迪,爆裂,1080301,10803,开始动工,"■对剩余的体力最低的{description_value_01}名敌人造成
+80,108011,桑迪,爆裂,1080301,10803,,"■对剩余的体力最低的{description_value_01}名敌人造成
 等于<color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_02}%的伤害】
 【防御力 {description_value_03}% ▼】【持续{description_value_04}秒】</color>",爆裂技能,icn_skill_c080_ult
 91,209111,贝斯蒂,技能1,2091101,20911,想象成真,"■全蓄力攻击命中时，自身
@@ -596,12 +592,13 @@
 ■当目标出现时，自身
 <color=#00AEFF>【<word_group=10009>优越代码攻击伤害</word_group>{description_value_04}%▲】
 【持续{description_value_05}秒】</color>",技能2,icn_skill_burstgaugespeedup_01
-40,204011,D,爆裂,1040301,10403,处决,"■对全体敌人造成
+40,204011,D,爆裂,1040301,10403,处决,"■对全体敌人造成相当于
 <color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_01}%的爆裂技能伤害】</color>
-■火力型全体队友
-<color=#00AEFF>【<word_group=10011>零件伤害</word_group>{description_value_02}%▲】【持续{description_value_03}秒】</color>
-■若自身处于<word_group=10010>免疫昏迷</word_group>状态，全体队友
-<color=#00AEFF>【全爆裂时间持续时间{description_value_04}秒▲】</color>",爆裂技能,icn_skill_c040_ult
+■火力型全体队友<color=#00AEFF>
+【<word_group=10011>零件伤害</word_group> {description_value_02}% ▲】【持续{description_value_03}秒】</color>
+■若自身处于<word_group=10010>免疫昏迷</word_group>状态，
+则全体队友
+<color=#00AEFF>【全爆裂持续时间{description_value_04}秒 ▲】</color>",爆裂技能,icn_skill_c040_ult
 100,110011,拉普拉斯,技能1,2100101,21001,英雄使命,"■全蓄力攻击时，自身
 <color=#00AEFF>【英雄使命：爆炸范围{description_value_01}% ▲】
 【叠加{description_value_03}次】【持续{description_value_02}秒】</color>",技能1,icn_skill_statexplosion_01
@@ -806,15 +803,10 @@
 <color=#00AEFF>【纳米涂层：产生相当于施展者<word_group=10025>最终</word_group>最大体力{description_value_01}%的<word_group=10023>护盾</word_group>】【持续】</color>
 ■使用爆裂技能时，若自身未处于纳米涂层状态，则自身
 <color=#00AEFF>【纳米涂层：产生相当于施展者<word_group=10025>最终</word_group>最大体力的{description_value_02}%<word_group=10023>护盾</word_group>】【持续】</color>",技能1,icn_skill_barrier_01
-361,136111,吉洛,技能2,2361201,23612,自我恢复,"■普通攻击{description_value_01}次时，若自身为纳米涂层状态，则自身
-<color=#00AEFF>【恢复相当于施展者<word_group=10025>最终</word_group>最大体力的<word_group=10048>护盾体力</word_group> {description_value_02}%】</color>
+361,136111,吉洛,技能2,2361201,23612,纳米涂层,"■战斗开始时，自身
+<color=#00AEFF>【纳米涂层：产生相当于施展者<word_group=10025>最终</word_group>最大体力{description_value_01}%的<word_group=10023>护盾</word_group>】【持续】</color>
 ■使用爆裂技能时，若自身未处于纳米涂层状态，则自身
-<color=#00AEFF>【不同使用次数不同效果】【低阶效果重复生效】</color>
-<color=#00AEFF>1次：【<word_group=10047>下一个护盾的体力</word_group> {description_value_03}% ▲】【持续】</color>
-<color=#00AEFF>2次：【<word_group=10047>下一个护盾的体力</word_group> {description_value_04}% ▲】
-【持续】</color>
-<color=#00AEFF>3次：【<word_group=10047>下一个护盾的体力</word_group> {description_value_05}% ▲】
-【持续】</color>",技能2,icn_skill_healbarrier_01
+<color=#00AEFF>【纳米涂层：产生相当于施展者<word_group=10025>最终</word_group>最大体力的{description_value_02}%<word_group=10023>护盾</word_group>】【持续】</color>",技能2,icn_skill_healbarrier_01
 361,136111,吉洛,爆裂,1361301,13613,指定优先顺序,"■若自身处于纳米涂层状态，则对所有敌人造成
 <color=#00AEFF>【<word_group=10025>最终</word_group>最大体力的{description_value_01}%换算成攻击力{description_value_02}%的伤害】</color>
 ■若自身未处于纳米涂层状态，则自身
@@ -971,11 +963,11 @@
 <color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_05}%的伤害】</color>
 ■战斗开始时，<color=#00AEFF>自身
 【最大体力{description_value_06}% ▲】【持续】</color>",技能2,icn_skill_atkup_01
-380,338011,尼罗,爆裂,1380301,13803,野蛮大猫,"■对剩余体力最高的{description_value_01}名敌人造成
+380,338011,尼罗,爆裂,1380301,13803,野蛮大猫,"■对体力最高的{description_value_01}名敌人造成相当于
 <color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_02}%的爆裂技能伤害】</color>
 ■自身
 <color=#00AEFF>【注目：挑衅全体敌人】【持续{description_value_03}秒】</color>
-■若自身处于猫的报恩最大叠加状态，自身
+■若自身处于猫的报恩最大叠加状态，则使自身
 <color=#00AEFF>【野蛮大猫：获得的体力恢复量{description_value_04}%▲】【持续{description_value_05}秒】</color>",爆裂技能,icn_skill_c380_ult
 392,339211,莱伊,技能1,2392101,23921,前辈的助威,"■进行{description_value_01}次普通攻击后，全体队友
 <color=#00AEFF>【<word_group=10015>爆裂进度补充</word_group>{description_value_02}%】</color>
@@ -1001,12 +993,14 @@
 {description_value_02}%的<word_group=10023>护盾</word_group>】【持续{description_value_03}秒】</color>
 ■自身
 <color=#00AEFF>【命中率{description_value_04}% ▲】【持续{description_value_05}秒】</color>",爆裂技能,icn_skill_c432_ult
-14,201411,尼恩：蓝色海洋,技能1,2014101,20141,上升波浪,"■使用爆裂技能时，自身
+14,201411,尼恩：蓝色海洋,技能1,2014101,20141,上升波浪,"■全爆裂时间开始时，自身
+<color=#00AEFF>【攻击力 {description_value_01}% ▲】【持续{description_value_02}秒】</color>
+■使用爆裂技能时，自身
 <color=#00AEFF>【不同起始次数有不同效果】
 【<word_group=10028>低阶效果重复生效</word_group>】
-1次：【<word_group=10011>零件伤害</word_group>{description_value_01}% ▲】【持续{description_value_02}秒】
-2次：【<word_group=10011>零件伤害</word_group>{description_value_03}% ▲】【持续{description_value_04}秒】
-3次：【<word_group=10011>零件伤害</word_group>{description_value_05}% ▲】【持续{description_value_06}秒】</color>",技能1,icn_skill_atkup_01
+1次：【<word_group=10011>零件伤害</word_group>{description_value_03}% ▲】【持续{description_value_04}秒】
+2次：【<word_group=10011>零件伤害</word_group>{description_value_05}% ▲】【持续{description_value_06}秒】
+3次：【<word_group=10011>零件伤害</word_group>{description_value_07}% ▲】【持续{description_value_08}秒】</color>",技能1,icn_skill_atkup_01
 14,201411,尼恩：蓝色海洋,技能2,2014201,20142,水枪喷射,"■进入爆裂3阶时，自身
 <color=#00AEFF>【不同起始次数有不同效果】
 【<word_group=10028>低阶效果重复生效</word_group>】
@@ -1223,9 +1217,9 @@
 811,581111,A2,爆裂,1811301,18113,B模式,"■自身
 <color=#00AEFF>【B模式】：
 功能：每秒降低自身体力，同时提升攻击力与蓄力速度。若自身体力为{description_value_01}%以下，则解除B模式。
-效果1：【目前体力{description_value_02}%▼】【间隔1秒】
-效果2：【攻击力{description_value_03}%▲】
-效果3：【蓄力速度{description_value_04}%▲】</color>",爆裂技能,icn_skill_c811_ult
+效果1：【目前体力{description_value_02}% ▼】【间隔1秒】
+效果2：【攻击力{description_value_03}% ▲】
+效果3：【蓄力速度{description_value_04}% ▲】</color>",爆裂技能,icn_skill_c811_ult
 450,145011,娜嘉,技能1,2450101,24501,友谊守护,"■进行{description_value_01}次普通攻击时，全体队友
 <color=#00AEFF>【<word_group=10017>掩体体力恢复</word_group>{description_value_02}%】</color>
 ■<word_group=10032>护盾生效</word_group>时，全体队友的
@@ -1458,12 +1452,12 @@
 第2阶：自身处于延长时间II状态时，造成
 <color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_07}%的伤害】</color>",技能2,icn_skill_incburstduration_01
 314,331411,索达：闪亮兔女郎,爆裂,1314301,13143,前进吧，索达！,"■使用前进吧，索达！时
-<color=#00AEFF>【不同黄金筹码叠加量不同效果】【<word_group=10028>低阶效果重复生效</word_group>】【效果生效后黄金筹码叠加量{description_value_01}个▼】</color>
-第1阶段：对全体敌人造成
+<color=#00AEFF>【不同黄金筹码叠加量不同效果】【<word_group=10028>低阶效果重复生效</word_group>】【效果生效后黄金筹码叠加量{description_value_01}次▼】</color>
+第一阶：对全体敌人造成
 <color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_02}%的爆裂技能伤害】</color>
-第2阶段：黄金筹码叠加{description_value_03}次以上时，自身
+第二阶：黄金筹码叠加{description_value_03}次以上时，自身
 <color=#00AEFF>【命中率{description_value_04}%▲】【持续{description_value_05}秒】</color>
-第3阶段：黄金筹码叠加{description_value_06}次以上时，自身
+第三阶：黄金筹码叠加{description_value_06}次以上时，自身
 <color=#00AEFF>【攻击力{description_value_07}%▲】【持续{description_value_08}秒】</color>",爆裂技能,icn_skill_c314_ult
 195,319511,爱丽丝：仙境兔女郎,技能1,2195101,21951,胡萝卜和兔子的派对,"■进行{description_value_01}次普通攻击时，全体队友
 <color=#00AEFF>【恢复相当于施展者<word_group=10025>最终</word_group>最大体力的{description_value_02}%】
@@ -1724,7 +1718,7 @@
 2次：【<word_group=10019>分摊伤害</word_group>{description_value_03}%▲】【持续{description_value_04}秒】
 3次：【<word_group=10068>可叠加的减益效果叠加量</word_group>{description_value_05}个▼】</color>
 ■全爆裂时间开始时，若有同一部队的队友，全体队友
-<color=#00AEFF>【恢复相当于施展者最大体力的{description_value_06}%】【间隔1秒】【持续{description_value_07}秒】</color>",技能1,icn_skill_heal_01
+<color=#00AEFF>【恢复相当于施展者<word_group=10025>最终</word_group>最大体力的{description_value_06}%】【间隔1秒】【持续{description_value_07}秒】</color>",技能1,icn_skill_heal_01
 355,235511,安克：天真的女仆,技能2,2355201,23552,海葵（形状）意大利面,"■全爆裂时间结束时，全体队友
 <color=#00AEFF>【不同使用次数不同效果】【<word_group=10028>低阶效果重复生效</word_group>】
 1次：【命中率{description_value_01}% ▲】【持续{description_value_02}秒】
@@ -1732,7 +1726,7 @@
 3次：【换弹速度{description_value_05}% ▲】【持续{description_value_06}秒】</color>",技能2,icn_skill_atkup_01
 355,235511,安克：天真的女仆,爆裂,1355301,13553,海边散步,"■全体队友
 <color=#00AEFF>【储存：以施展者为基准的最大体力{description_value_01}%为上限，储存溢出的体力恢复量】【持续{description_value_02}秒】
-【恢复相当于施展者最大体力的{description_value_03}%】
+【恢复相当于施展者<word_group=10025>最终</word_group>最大体力的{description_value_03}%】
 【以施展者为基准的攻击力{description_value_04}%▲】【持续{description_value_05}秒】</color>",爆裂技能,icn_skill_c355_ult
 520,352011,布蕾德,技能1,2520101,25201,孤独美食家,"■全爆裂时间开始时，自身
 <color=#00AEFF>【攻击力{description_value_01}%▲】【持续{description_value_02}秒】</color>
@@ -2170,7 +2164,7 @@
 <color=#00AEFF>【<word_group=10025>最终</word_group>攻击力{description_value_01}%的<word_group=10019>分摊伤害</word_group>】</color>
 ■若存在风压代码的敌人，自身
 <color=#00AEFF>【1MORE：攻击力{description_value_02}%▲】【持续{description_value_03}秒】</color>",爆裂技能,icn_skill_c871_ult
-10,201003,拉毗,技能1,2010101,20101,阵型 F.F,"■被攻击{description_value_03}次时，自身
+10,201003,拉毗,技能1,2010101,20101,,"■被攻击{description_value_03}次时，自身
 <color=#00AEFF>【攻击力{description_value_01}% ▲】【持续{description_value_02}秒】</color>",技能1,icn_skill_atkup_01
 10,201003,拉毗,技能2,1010201,10102,导弹,"■对攻击力最高的{description_value_03}名敌人造成
 <color=#00AEFF>【等于<word_group=10025>最终</word_group>攻击力{description_value_02}%的伤害】
@@ -2179,11 +2173,11 @@
 <color=#00AEFF>【等于<word_group=10025>最终</word_group>攻击力{description_value_01}%的爆裂技能伤害】</color>
 ■自身
 <color=#00AEFF>【攻击力{description_value_02}% ▲】【持续{description_value_03}秒】</color>",爆裂技能,icn_skill_c010_ult
-11,201103,尼恩,技能1,2011101,20111,尼恩特制弹,"■消灭敌人时，攻击力最高的{description_value_01}名队友
+11,201103,尼恩,技能1,2011101,20111,,"■消灭敌人时，攻击力最高的{description_value_01}名队友
 <color=#00AEFF>【暴击率{description_value_02}%▲】【持续{description_value_03}秒】</color>",技能1,icn_skill_statcritical_01
-11,201103,尼恩,技能2,2011201,20112,火力万岁！,"■全爆裂时间开始时，全体队友
+11,201103,尼恩,技能2,2011201,20112,,"■全爆裂时间开始时，全体队友
 <color=#00AEFF>【暴击率{description_value_01}%▲】【持续{description_value_02}发】</color>",技能2,icn_skill_statcritical_01
-11,201103,尼恩,爆裂,1011301,10113,火力至上！,"■对防御力最高的{description_value_01}名敌人造成
+11,201103,尼恩,爆裂,1011301,10113,,"■对防御力最高的{description_value_01}名敌人造成
 <color=#00AEFF>【等于<word_group=10025>最终</word_group>攻击力{description_value_02}%的爆裂技能伤害】</color>
 ■持有霰弹枪的全体队友
 <color=#00AEFF>【最大装弹数{description_value_03}发▲】【持续{description_value_04}秒】</color>",爆裂技能,icn_skill_c011_ult
@@ -2198,7 +2192,7 @@
 【注目：挑衅全体敌人】【持续{description_value_03}秒】</color>",爆裂技能,icn_skill_c020_ult
 12,301203,阿妮斯,技能1,2012101,20121,阵型 D.H,"■被攻击{description_value_01}次时，自身
 <color=#00AEFF>【防御力{description_value_02}% ▲】【持续{description_value_03}秒】</color>",技能1,icn_skill_defup_01
-12,301203,阿妮斯,技能2,1012201,10122,阵型 C.H,"■自身与除自身以外攻击力最高的2名队友
+12,301203,阿妮斯,技能2,1012201,10122,,"■自身与除自身以外攻击力最高的2名队友
 <color=#00AEFF>【防御力{description_value_01}%▲】
 【持续{description_value_02}秒】
 【<word_group=10044>被击伤害平均分摊</word_group>】
@@ -2384,9 +2378,9 @@
 愚：愚蠢的人啊
 
 啊，写不下去了。还是明年愚人节再说吧。",爆裂技能,icn_skill_c907_ult
-5006,2500601,桃乐丝,技能1,9010201,90102,(未命名),,技能1,
-5006,2500601,桃乐丝,技能2,9010301,90103,(未命名),,技能2,
-5006,2500601,桃乐丝,爆裂,9010301,90103,(未命名),,爆裂技能,
+5006,2500601,桃乐丝,技能1,9010201,90102,,,技能1,
+5006,2500601,桃乐丝,技能2,9010301,90103,,,技能2,
+5006,2500601,桃乐丝,爆裂,9010301,90103,,,爆裂技能,
 901,190101,舒恩,技能1,2901101,29011,方舟小偶像,"我叫舒恩！
 担任方舟三大公司之一「米傻一斯工业」CEO的美少女！
 可说是人见人爱的方舟小偶像！",技能1,icn_skill_heal_01
