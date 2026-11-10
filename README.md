@@ -2,9 +2,7 @@
 
 NIKKE 公共数据资产仓库。
 
-当前内容已清理：旧版 QQ 推荐图静态快照不再维护。QQ 推荐图已改为服务器端按实时统计数据动态生成，不依赖本仓库。
-
-后续本仓库仅用于发布公共数据资产，按 `global/`（国际服）与 `cn/`（国服）同构目录组织，两个区各自版本管理。
+本仓库用于发布公共数据资产，按 `global/`（国际服）与 `cn/`（国服）同构目录组织，两个区各自版本管理。
 
 ## 分区
 
@@ -19,6 +17,7 @@ NIKKE 公共数据资产仓库。
 global/            cn/
 ├── characters/    ├── characters/     # 按角色：{角色码}/images/{full,mi,si,skills} + meta.json
 ├── data/          ├── data/           # 角色表 / 技能 / 等级 / 图标
+├── staticdata/    ├── staticdata/     # 源字段静态数据表（csv/ + json/ + manifest.core.json）
 └── index/         └── index/          # index.json 统计 + characters_index.csv 清单
 ```
 
@@ -36,6 +35,7 @@ https://cdn.jsdelivr.net/gh/SkyXMoon/NikkeAssets@<标签或提交号>/cn/...
 | 标签 | 说明 |
 | --- | --- |
 | `2026-10-data` | 2026-10 完整发布 |
+| `2026-10-data-r2` | 2026-10 修订发布 |
 
 示例：
 
@@ -52,7 +52,7 @@ https://cdn.jsdelivr.net/gh/SkyXMoon/NikkeAssets@2026-10-data/cn/characters/c102
 
 说明：
 
-- GitHub 单文件上限 100MB，jsDelivr 单文件上限 20MB；本仓库当前最大文件 11.5MB，均在限内。
+- GitHub 单文件上限 100MB，jsDelivr 单文件上限 20MB；本仓库当前最大文件 24.5MB（`global/staticdata/json/FunctionTable.json`），在 GitHub 限内但超过 jsDelivr 上限，该文件请用 GitHub Raw 获取。
 - 标签发布后 CDN 首次访问可能有短暂缓存延迟；内容更新请发新标签，不要依赖同一地址的内容变化。
 - `@main` 可取最新，但生产环境建议固定标签或提交号。
 
@@ -62,6 +62,5 @@ https://cdn.jsdelivr.net/gh/SkyXMoon/NikkeAssets@2026-10-data/cn/characters/c102
 
 ## 说明
 
-- 旧文件与历史提交已移除，旧链接不再保证可用。
 - 引用请使用明确版本，不要依赖浮动地址。
 - 国服角色数量少于国际服属正常现象，两服内容自然不同；各分区仅保证自身数据自洽：`index/characters_index.csv` 与实际 `characters/` 目录一致。

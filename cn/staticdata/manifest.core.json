@@ -2,39 +2,26 @@
  "schema": "nikke-staticdata-core-manifest/v1",
  "generated_at": "2026-11-10T08:52:55+08:00",
  "server": "cn",
- "scope": "github_push_core_A",
- "description": "只描述推送到 GitHub 的核心子集。完整全量清单 manifest.json 与全部表保留在本地工作副本，未推送。",
+ "scope": "core_staticdata",
+ "description": "仓库内 staticdata/ 核心数据表的逐表清单与校验哈希。",
  "source": {
   "version": "data/ob17/143226",
-  "version_evidence": "Runs/cn/pipeline/20261101_1506/report.json",
-  "note": "国服 11-01 抓取包；11-09 接口复核版本未变（见 11-09 工作日志）",
-  "zip": "Runs/cn/pipeline/20261101_1506/StaticData.zip",
+  "zip": "StaticData.zip",
   "zip_bytes": 18684150,
   "zip_sha256": "1f966c7adbb7a450f59f8fbc8741b05867f798ba659c48c2e2f90c79444ab115",
   "zip_entries": 8845,
-  "pack": "Runs/cn/pipeline/20261101_1506/StaticData.pack",
+  "pack": "StaticData.pack",
   "pack_bytes": 18684704,
   "pack_sha256": "84be425af74120dc44d3b765be9b060e9a4cc2495b5f925965a216cd0b6d4680",
-  "source_copy": "source/StaticData.zip",
-  "source_copy_sha256": "1f966c7adbb7a450f59f8fbc8741b05867f798ba659c48c2e2f90c79444ab115",
   "schema": null,
   "schema_sha256": null
  },
  "contract": {
-  "scope": "本服解密源包内全部条目，逐表原字段名、原值、不翻译、不裁剪、不改 ID",
-  "physical_isolation": "仅读取本服源包；输出仅写入 ToGithub/cn/staticdata/",
-  "existing_delivery_untouched": "ToGithub/cn/data/ 及 characters/ 等既有文件未改动",
+  "scope": "仓库内核心数据表按源字段名、源值导出，不翻译、不裁剪、不改 ID",
   "encoding": "CSV: UTF-8 with BOM；JSON: UTF-8 无 BOM，紧凑格式",
   "nested_values": "JSON 原生保留；CSV 中为紧凑 JSON 字符串",
   "locale": "不翻译：Localkey 保留原串，枚举保留源值",
   "field_name_style": "snake_case（源 JSON 原字段名）"
- },
- "full_local_delivery": {
-  "structured_tables": 8832,
-  "rows_total": 797736,
-  "raw_entries": 13,
-  "unresolved_entries": 0,
-  "note": "本地 staticdata/ 下 csv/ json/ raw/ source/ manifest.json 全部保留。"
  },
  "push_scope": {
   "tables": 106,
@@ -42,8 +29,7 @@
   "csv_bytes": 25694797,
   "json_bytes": 64511463,
   "total_bytes": 90206260,
-  "total_MB": 86.0,
-  "excluded_main_content": "ScenarioDialogTable.* 等剧情文本与 FieldMapData_* 地图数据，以及 2 份解密源 zip 副本。"
+  "total_MB": 86.0
  },
  "tables": [
   {
