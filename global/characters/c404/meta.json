@@ -9,7 +9,7 @@
   "职业": "火力",
   "属性": "水冷",
   "爆裂": "爆裂III",
-  "部队": "真善美",
+  "部队": "真善美部队",
   "立绘": "是",
   "skins": [
     "00"
@@ -25,6 +25,6 @@
   "Skill1Id": "2404101",
   "Skill2Id": "2404201",
   "UltiSkillId": "1404301",
-  "combat": "",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"13500\", \"attack\": \"600\", \"defense\": \"76\"}",
   "images_dir": "global/characters/c404/images"
 }

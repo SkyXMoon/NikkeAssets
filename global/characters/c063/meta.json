@@ -6,9 +6,9 @@
   "英文名": "Belorta: Pumpkin Witch",
   "稀有度": "SSR",
   "企业": "泰特拉",
-  "职业": "火力",
-  "属性": "电击",
-  "爆裂": "爆裂III",
+  "职业": "辅助",
+  "属性": "水冷",
+  "爆裂": "爆裂II",
   "部队": "小加农炮部队",
   "立绘": "是",
   "skins": [
@@ -17,10 +17,14 @@
   "si_files": [
     "si_c063_00_s.png"
   ],
-  "skill_icons": [],
-  "Skill1Id": "9010201",
-  "Skill2Id": "9010301",
-  "UltiSkillId": "9010301",
-  "combat": "",
+  "skill_icons": [
+    "icn_skill_atkup_01",
+    "icn_skill_damagereductionup_01",
+    "icn_skill_c063_ult"
+  ],
+  "Skill1Id": "2063101",
+  "Skill2Id": "2063201",
+  "UltiSkillId": "1063301",
+  "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"15000\", \"attack\": \"500\", \"defense\": \"98\"}",
   "images_dir": "global/characters/c063/images"
 }

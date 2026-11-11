@@ -22,7 +22,7 @@
     "icn_skill_c012_ult"
   ],
   "Skill1Id": "2012101",
-  "Skill2Id": "1012201",
+  "Skill2Id": "0",
   "UltiSkillId": "1012301",
   "combat": "{\"combatPowerLv200\": \"\", \"hp\": \"12650\", \"attack\": \"360\", \"defense\": \"97\"}",
   "images_dir": "global/characters/c012/images"

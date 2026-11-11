@@ -26,7 +26,7 @@
 ```n
 ## 数据口径
 
-- **战斗数据**（nikke_combat.csv）：Damage 除以 100；ChargeTime/ReloadTime 除以 1000 换算秒；BurstEnergyPerShot 除以 10000 换算百分比；FullChargeDamage 除以 100 换算百分比。
+- **战斗数据**（nikke_combat.csv）：Damage 除以 100；ChargeTime/ReloadTime 除以 100 换算秒；BurstEnergyPerShot 除以 10000 换算百分比；FullChargeDamage 除以 100 换算百分比。
 - **技能每级数值**（nikke_skill_levels.csv）：来自 SkillInfoTable（DescriptionValueList），覆盖全部技能组的每一级成长数值，技能组 Id 与 nikke_skills.csv 的技能组 Id 对应。
 - **皮肤序号**：00/01/02/…/99 等为各皮肤变体序号；同一角色多皮肤时 images/full、mi、si 内同名序号互相对应。
 - **头像 si**：资源合图（Sprite Atlas）导出，尺寸以资源原始裁剪为准（基准 128×128）。

@@ -5,10 +5,10 @@
 
 ## 数据说明
 
-- 角色数：162（characters/ 资源目录、index/characters_index.csv 与 data/ 展示表三处一致）
+- 角色数：161（characters/ 资源目录、index/characters_index.csv 与 data/ 展示表三处一致）
 - 多皮肤角色数：74
-- 皮肤变体总数（full/mi 对数）：271
-- 图片总数：1276（full 271 / mi 271 / si 273 / skills 461）
+- 皮肤变体总数（full/mi 对数）：270
+- 图片总数：1273（full 270 / mi 270 / si 272 / skills 461）
 - 技能图标数：264
 - 技能等级数据行：7889（技能组 880 个，与国服 SkillInfoTable 完全一致）
 - 部队数：58（nikke_characters.csv 部队字段唯一值）
@@ -29,14 +29,14 @@ cn/
 │       │   └── skills/   # 技能图标
 │       └── meta.json     # 角色元数据（images_dir 为相对路径 cn/characters/{角色码}/images）
 ├── data/             # 全量数据表 + skill_icons 技能图标库
-│   ├── nikke_characters.csv    # 角色表（162 行）
-│   ├── nikke_combat.csv        # 战斗数值表（162 行）
-│   ├── nikke_skills.csv        # 技能表（486 行）
+│   ├── nikke_characters.csv    # 角色表（161 行）
+│   ├── nikke_combat.csv        # 战斗数值表（161 行）
+│   ├── nikke_skills.csv        # 技能表（483 行）
 │   ├── nikke_skill_levels.csv  # 技能等级表（7889 行 / 880 组）
 │   ├── squad_list.csv          # 部队清单（57 行，含图标引用）
 │   └── squad_icons/            # 部队图标（50 个）
 └── index/            # 索引
-    ├── characters_index.csv    # 角色索引（162 行）
+    ├── characters_index.csv    # 角色索引（161 行）
     └── index.json              # 分区统计
 ```
 

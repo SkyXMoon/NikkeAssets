@@ -18,9 +18,8 @@
     "si_c832_00_s.png"
   ],
   "skill_icons": [
-    "icn_skill_barrierdamage_01",
-    "icn_skill_atkup_01",
-    "icn_skill_c832_ult"
+    "icn_skill_statcritical_01",
+    "icn_skill_statcritical_01"
   ],
   "Skill1Id": "2011101",
   "Skill2Id": "2011101",
