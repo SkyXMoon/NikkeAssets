@@ -146,6 +146,12 @@
 !/cn/staticdata/json/MonsterStatEnhanceTable.json
 !/cn/staticdata/csv/MonsterTable.csv
 !/cn/staticdata/json/MonsterTable.json
+!/cn/staticdata/csv/MuseumBuffTable.csv
+!/cn/staticdata/json/MuseumBuffTable.json
+!/cn/staticdata/csv/MuseumWeeklyBuffGroupTable.csv
+!/cn/staticdata/json/MuseumWeeklyBuffGroupTable.json
+!/cn/staticdata/csv/MuseumWeeklyBuffTable.csv
+!/cn/staticdata/json/MuseumWeeklyBuffTable.json
 !/cn/staticdata/csv/ObjectStatEnhanceTable.csv
 !/cn/staticdata/json/ObjectStatEnhanceTable.json
 !/cn/staticdata/csv/RecycleResearchLevelTable.csv

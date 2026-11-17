@@ -10,7 +10,7 @@
 - 皮肤变体总数（full/mi 对数）：270
 - 图片总数：1273（full 270 / mi 270 / si 272 / skills 461）
 - 技能图标数：264
-- 技能等级数据行：7889（技能组 880 个，与国服 SkillInfoTable 完全一致）
+- 技能等级数据行：8190（技能组 880 个，与国服 SkillInfoTable 完全一致）
 - 部队数：58（nikke_characters.csv 部队字段唯一值）
 - 部队图标数：50（data/squad_icons/，来自国服本地 icons-squad bundle 解包）
 
@@ -32,7 +32,7 @@ cn/
 │   ├── nikke_characters.csv    # 角色表（161 行）
 │   ├── nikke_combat.csv        # 战斗数值表（161 行）
 │   ├── nikke_skills.csv        # 技能表（483 行）
-│   ├── nikke_skill_levels.csv  # 技能等级表（7889 行 / 880 组）
+│   ├── nikke_skill_levels.csv  # 技能等级表（8190 行 / 918 组）
 │   ├── squad_list.csv          # 部队清单（57 行，含图标引用）
 │   └── squad_icons/            # 部队图标（50 个）
 └── index/            # 索引

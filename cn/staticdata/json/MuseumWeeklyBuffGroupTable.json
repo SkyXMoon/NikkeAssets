@@ -1,0 +1,1 @@
+{"table":"MuseumWeeklyBuffGroupTable","schema_class":null,"source_version":"0.0.1","record_count":3,"fields":["id","season_id","week_count"],"records":[{"id":101,"season_id":1,"week_count":1},{"id":102,"season_id":1,"week_count":2},{"id":103,"season_id":1,"week_count":3}]}

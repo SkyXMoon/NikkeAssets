@@ -1,0 +1,1 @@
+{"table":"MuseumWeeklyBuffTable","schema_class":null,"source_version":"0.0.1","record_count":3,"fields":["id","group_id","order","stage_id","buff_id"],"records":[{"id":10101,"group_id":101,"order":10101,"stage_id":101,"buff_id":801},{"id":10201,"group_id":102,"order":10201,"stage_id":102,"buff_id":802},{"id":10301,"group_id":103,"order":10301,"stage_id":103,"buff_id":803}]}

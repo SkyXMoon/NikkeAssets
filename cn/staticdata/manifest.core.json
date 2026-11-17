@@ -1,35 +1,49 @@
 {
  "schema": "nikke-staticdata-core-manifest/v1",
- "generated_at": "2026-11-10T08:52:55+08:00",
+ "generated_at": "2026-11-18T07:48:19+08:00",
  "server": "cn",
- "scope": "core_staticdata",
- "description": "仓库内 staticdata/ 核心数据表的逐表清单与校验哈希。",
+ "scope": "github_push_core_A",
+ "description": "只描述推送到 GitHub 的核心子集。完整全量清单 manifest.json 与全部表保留在本地工作副本，未推送。",
  "source": {
-  "version": "data/ob17/143226",
-  "zip": "StaticData.zip",
-  "zip_bytes": 18684150,
-  "zip_sha256": "1f966c7adbb7a450f59f8fbc8741b05867f798ba659c48c2e2f90c79444ab115",
-  "zip_entries": 8845,
-  "pack": "StaticData.pack",
-  "pack_bytes": 18684704,
-  "pack_sha256": "84be425af74120dc44d3b765be9b060e9a4cc2495b5f925965a216cd0b6d4680",
+  "version": "data/ob18/150933",
+  "version_evidence": "Runs/cn/pipeline/20261118_ob18/report.json",
+  "note": "国服 11-18 接口抓取 ob18/150933（19.2MB / 8985 条目，含 140 张新活动表）",
+  "zip": "Runs/cn/pipeline/20261118_ob18/StaticData.zip",
+  "zip_bytes": 19217032,
+  "zip_sha256": "4d17f3698d9b53114abd0b561e596405b64a1d7d89c0a96027e65410ec1f6e77",
+  "zip_entries": 8985,
+  "pack": "Runs/cn/pipeline/20261118_ob18/StaticData.pack",
+  "pack_bytes": 19217584,
+  "pack_sha256": "544cc2c0e27eb7b90be8834f9894c8cc48cf6c72dcab2a75f9e6dd049940a940",
+  "source_copy": "source/StaticData.zip",
+  "source_copy_sha256": "4d17f3698d9b53114abd0b561e596405b64a1d7d89c0a96027e65410ec1f6e77",
   "schema": null,
   "schema_sha256": null
  },
  "contract": {
-  "scope": "仓库内核心数据表按源字段名、源值导出，不翻译、不裁剪、不改 ID",
+  "scope": "本服解密源包内全部条目，逐表原字段名、原值、不翻译、不裁剪、不改 ID",
+  "physical_isolation": "仅读取本服源包；输出仅写入 ToGithub/cn/staticdata/",
+  "existing_delivery_untouched": "ToGithub/cn/data/ 及 characters/ 等既有文件未改动",
   "encoding": "CSV: UTF-8 with BOM；JSON: UTF-8 无 BOM，紧凑格式",
   "nested_values": "JSON 原生保留；CSV 中为紧凑 JSON 字符串",
   "locale": "不翻译：Localkey 保留原串，枚举保留源值",
   "field_name_style": "snake_case（源 JSON 原字段名）"
  },
+ "full_local_delivery": {
+  "structured_tables": 8972,
+  "rows_total": 826936,
+  "raw_entries": 13,
+  "unresolved_entries": 0,
+  "note": "本地 staticdata/ 下 csv/ json/ raw/ source/ manifest.json 全部保留。"
+ },
  "push_scope": {
-  "tables": 106,
-  "csv_json_files": 212,
-  "csv_bytes": 25694797,
-  "json_bytes": 64511463,
-  "total_bytes": 90206260,
-  "total_MB": 86.0
+  "tables": 109,
+  "csv_json_files": 218,
+  "csv_bytes": 26583121,
+  "json_bytes": 67034351,
+  "total_bytes": 93617472,
+  "total_MB": 89.3,
+  "excluded_main_content": "ScenarioDialogTable.* 等剧情文本与 FieldMapData_* 地图数据，以及 2 份解密源 zip 副本。"
  },
  "tables": [
   {
@@ -100,14 +114,14 @@
   },
   {
    "table": "AutoChargeTable",
-   "rows": 113,
+   "rows": 121,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 6,
-   "csv_bytes": 3018,
-   "csv_sha256": "04bf7c5054eeeaced88e7eaad0eba8681454384a19214d31fbbeb575d7e58deb",
-   "json_bytes": 11954,
-   "json_sha256": "1495b334f4b60bcd2bc6bb27231d7e69a4480698fe50526c5c4da1bfaeebe3ce"
+   "csv_bytes": 3227,
+   "csv_sha256": "543149d82d1d6de1e6a03eb1f482cfc3a4f4cd9a630411be71c2805cc3ec7587",
+   "json_bytes": 12787,
+   "json_sha256": "f430f479ed49cf0c4b99483f474b91f9bc73c750a9ae158d1fa6db964fb5abcb"
   },
   {
    "table": "BotCharacterTable",
@@ -133,14 +147,14 @@
   },
   {
    "table": "CharacterCostumeTable",
-   "rows": 136,
+   "rows": 143,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 11,
-   "csv_bytes": 17305,
-   "csv_sha256": "92e056cb6065a7726cc46e3933186e056583499fb294826ac368bbf9322a23ab",
-   "json_bytes": 43734,
-   "json_sha256": "73ebedd551e4b8c91b029df89b504f72feb1c36e8b06b4b644846b66f1b31a49"
+   "csv_bytes": 18187,
+   "csv_sha256": "5ae86d5daec1a05778b1d4a490692dbe9f5a287c061e281daf0224e6ed58e0c5",
+   "json_bytes": 45981,
+   "json_sha256": "e4547893c9aa8b08ade4658e9ad28891ba8528791bd730314ca58eb849b7a037"
   },
   {
    "table": "CharacterCostumeThemeTable",
@@ -166,36 +180,36 @@
   },
   {
    "table": "CharacterReactionTable",
-   "rows": 2495,
+   "rows": 2631,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 13,
-   "csv_bytes": 239158,
-   "csv_sha256": "922f20d010e6d2f00bd6ee13b80734ea3f2bbdd2de5e42f19e9c26a272632aa6",
-   "json_bytes": 700222,
-   "json_sha256": "82e08e6bfb0baf7829357686558b08fccdf4da8050f729effcbe2a5e1447e13e"
+   "csv_bytes": 252466,
+   "csv_sha256": "f4a94173d045e7d8b0e4d81d334c4007f2c8f0f9909519ac66bbf9d8962fa861",
+   "json_bytes": 738690,
+   "json_sha256": "5b5e15a17faefca07ab00b13bb2c60875757bd97c80735d30d1d6d746baa69c2"
   },
   {
    "table": "CharacterShotTable",
-   "rows": 222,
+   "rows": 228,
    "leftover_bytes": 0,
    "schema_class": null,
-   "field_count": 58,
-   "csv_bytes": 72341,
-   "csv_sha256": "56d9ea293ea709ed5d24afb2f7b61347127869fe236cd9f4ab66e48cac4da8bf",
-   "json_bytes": 320162,
-   "json_sha256": "3f35d278c9a4dc44470e629e2757d7931725e48f68060175dfb881c46823a4d7"
+   "field_count": 60,
+   "csv_bytes": 77257,
+   "csv_sha256": "25effcf3fd0d2da03932ef82c1385759719cfa1253a93ce852fdfdabe033111b",
+   "json_bytes": 345006,
+   "json_sha256": "196e5630a8982f4ae4da9c2c47c042cb786ddcafe7a095ba9786315731715390"
   },
   {
    "table": "CharacterSkillTable",
-   "rows": 3671,
+   "rows": 3811,
    "leftover_bytes": 0,
    "schema_class": null,
-   "field_count": 17,
-   "csv_bytes": 1468931,
-   "csv_sha256": "a2910e6295464bb9b5dd8775d9e2bbe42751323d3c449c6bea3b5e9827ffe517",
-   "json_bytes": 2553578,
-   "json_sha256": "2a203eaa6dce15b6984276449d78f17610f737b73d19b34513648ecd9eb493f7"
+   "field_count": 19,
+   "csv_bytes": 1564035,
+   "csv_sha256": "263739e31a258e1451d3b1094f0af6f3e96940c3371e718c2a1fe25507103f67",
+   "json_bytes": 2911174,
+   "json_sha256": "6614e5e07a7e3250c9798d4394206be13b6b184619eb3b57cf27e45d76b834cc"
   },
   {
    "table": "CharacterStatEnhanceTable",
@@ -221,14 +235,14 @@
   },
   {
    "table": "CharacterTable",
-   "rows": 1624,
+   "rows": 1712,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 40,
-   "csv_bytes": 480919,
-   "csv_sha256": "2b0818095f84eec3dad2c8dede78b623d2ca794dda877360130e5a3a3b3a3531",
-   "json_bytes": 1520297,
-   "json_sha256": "869c04b976ba39e631a0e1b8dfec7f89eb41d60f6881e7da42cb3e4688c4ab1f"
+   "csv_bytes": 507207,
+   "csv_sha256": "06958c4663de1e11128dbfb0a5bece6f7ddf589ae793f2959f3b15b61e5326c2",
+   "json_bytes": 1603403,
+   "json_sha256": "7b55e49d6e7ff0f31dae3d9e8693f1ca17d81407d5b2819b0aee69f9114d9ab9"
   },
   {
    "table": "CharacterVoiceCategoryTable",
@@ -243,25 +257,25 @@
   },
   {
    "table": "CharacterVoiceGroupTable",
-   "rows": 9006,
+   "rows": 9594,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 9,
-   "csv_bytes": 1160565,
-   "csv_sha256": "360fd5731c902df5f3473fa8ade8e1d38b3aa105b8c192ee690ed7ae5cff3f02",
-   "json_bytes": 2510099,
-   "json_sha256": "b2453a9548ab59a2200b4a67ddc7e3f7e8e7577135839dd4582c88ac882ef5bf"
+   "csv_bytes": 1237019,
+   "csv_sha256": "a85d497e90c0801575ce08b4bc651f7b25f7f55e9153a12531e023d234bd597b",
+   "json_bytes": 2674655,
+   "json_sha256": "f25e5695b626ba42dd14d221d408447bb575422b90c602613df2e44f9304687d"
   },
   {
    "table": "CharacterVoiceTable",
-   "rows": 220,
+   "rows": 234,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 4,
-   "csv_bytes": 4933,
-   "csv_sha256": "35372faeb9294e157e42915177df241f290b224c866736423dff2118598b0ff5",
-   "json_bytes": 16275,
-   "json_sha256": "cd1dcbc499e51beae6dab222c4237eac2da4702885f82f9889899aa1a26e31e5"
+   "csv_bytes": 5239,
+   "csv_sha256": "7bf5e3653b82db124172f4260b72ca888e10804c6b942aeadf457ce998392b1b",
+   "json_bytes": 17295,
+   "json_sha256": "d98edb8ebd76d7fc17b2ae33eee9b910dbdcb89c67b8b3908e6c2dc192b33ce0"
   },
   {
    "table": "CostumeShopTable",
@@ -397,14 +411,14 @@
   },
   {
    "table": "FunctionTable",
-   "rows": 16302,
+   "rows": 17212,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 55,
-   "csv_bytes": 5212665,
-   "csv_sha256": "ef3eda001e74e86879c91cc4f9fe8b61fbdf7aef057e224d41530ce664d44aa3",
-   "json_bytes": 18485566,
-   "json_sha256": "b2c9c0c9fbf0d7fb4cbef6be205ffd28e23baf184235419c6a1d534ce5039bd8"
+   "csv_bytes": 5533403,
+   "csv_sha256": "9ee5bae427bb962137dc5944397f866575dfd3b7c25e00b047f9e2aaebbcd38d",
+   "json_bytes": 19569255,
+   "json_sha256": "4ee4b94610de6246f4e22cd16a603ac7da67f5960ec4072bd622d59aff039186"
   },
   {
    "table": "GradeCoreEquipmentTable",
@@ -463,14 +477,14 @@
   },
   {
    "table": "ItemConsumeTable",
-   "rows": 361,
+   "rows": 366,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 17,
-   "csv_bytes": 74575,
-   "csv_sha256": "71db76583da6709d3d7be0e15c9e55054312b871a173fb7855075cac0d33650e",
-   "json_bytes": 171296,
-   "json_sha256": "ca80d977f712509a59ddb1afb3eaab53f104a09ddf41e5c3a23afef8a99497c3"
+   "csv_bytes": 75751,
+   "csv_sha256": "6559a8fbd4228ceaa027a5d047472c54a4bcdcc9f46d65823cf8f325d0f7226d",
+   "json_bytes": 173840,
+   "json_sha256": "d68bf3cfa52496e49a517c05975abb9e7919f87ef285d2928e096cca63956b38"
   },
   {
    "table": "ItemEquipCombinationGroupTable",
@@ -551,14 +565,14 @@
   },
   {
    "table": "ItemExchangeTable",
-   "rows": 91,
+   "rows": 98,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 9,
-   "csv_bytes": 5723,
-   "csv_sha256": "a354bfd885439e8439ed9b264ee978e974d5916122497920af56f2931ad7d766",
-   "json_bytes": 19435,
-   "json_sha256": "25bfb9197156f472fdaefb6ee45639165a623d9d741e0669f3fe6e5965dc17e4"
+   "csv_bytes": 6147,
+   "csv_sha256": "1054ff8b03dfaa4d99d45e1d5af74f4e1f0d7501553a6a584dad05d31b25a82b",
+   "json_bytes": 20902,
+   "json_sha256": "58dc03f495a11721eed77d22e5006e46fefc4e1363e233bf27440973788b1e1f"
   },
   {
    "table": "ItemGetPathTable",
@@ -606,14 +620,14 @@
   },
   {
    "table": "ItemMaterialTable",
-   "rows": 405,
+   "rows": 425,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 11,
-   "csv_bytes": 75635,
-   "csv_sha256": "1c82632efd083716b2e805dd42f71271d34c70d4b352e392beffe6ef9668355d",
-   "json_bytes": 145024,
-   "json_sha256": "b949285d8c31269fc7ffab085ad64a52c058e7a5427bbdabc89831815efdec8c"
+   "csv_bytes": 79562,
+   "csv_sha256": "b6c1205a78d724e94224f3b590229191921aaa8a0b593b0b4c824f09d09c7900",
+   "json_bytes": 152371,
+   "json_sha256": "f2b128207a41ddd83ea9511b4bc7af253efb808708798652f1064cc4257162e5"
   },
   {
    "table": "ItemPieceExpTable",
@@ -628,47 +642,47 @@
   },
   {
    "table": "ItemPieceTable",
-   "rows": 182,
+   "rows": 190,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 16,
-   "csv_bytes": 21959,
-   "csv_sha256": "5d2db3ab532455b4b70154ce2fe93d117c5bfce5e64ebf4e6072c389cb08c480",
-   "json_bytes": 59104,
-   "json_sha256": "935cfdf96344f34f4aca38dc14e621c3cb8c2e9207db49355b465fe5081727e9"
+   "csv_bytes": 22908,
+   "csv_sha256": "c35e070b6fa9e9c864762b00db20b68f865cf55f3862c5a2e397225d870c6e40",
+   "json_bytes": 61739,
+   "json_sha256": "9e84a726127310d0eb1beb13f146a2431201b8081f69cd29ec7b3303f7df5904"
   },
   {
    "table": "ItemRandomTable",
-   "rows": 2914,
+   "rows": 2948,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 8,
-   "csv_bytes": 142759,
-   "csv_sha256": "f4f005c94cc1f91fe13a938b0ad9a6cffdeb246557a3f78fca392c8f59beb482",
-   "json_bytes": 431372,
-   "json_sha256": "849a6507fed166881e2f4c9db83289eb978df9ecbd9ba9e1b7bc1e8a5b791311"
+   "csv_bytes": 144482,
+   "csv_sha256": "553e5807a537c5b21df49ea9c7482c74e87ea0df8d0875be7f880f5e5386009d",
+   "json_bytes": 436461,
+   "json_sha256": "32b2912887bdc8a71e7aa334fb1393c217911175bce8f54b6359826c1c1eeb61"
   },
   {
    "table": "ItemSelectOptionRowTable",
-   "rows": 179,
+   "rows": 185,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 6,
-   "csv_bytes": 6253,
-   "csv_sha256": "40aa355dca2db51ddfc47d8ef7c8110bc53bfd3f5cfb36776af590a6436759ec",
-   "json_bytes": 18556,
-   "json_sha256": "cac7e81aef0b3abf4c9b0f45edcbf2a3714b4dae72d896b54851f4dc6b6ccb03"
+   "csv_bytes": 6448,
+   "csv_sha256": "9d30ef5acad49f1842cebf0321b4df8d9900d5dfcf42d33dac62a44a636b6eb9",
+   "json_bytes": 19159,
+   "json_sha256": "945e6b5840d2156568f1ec692958cc29314106c84a3b7ee5a84992d795fd5002"
   },
   {
    "table": "ItemSelectOptionTable",
-   "rows": 74,
+   "rows": 75,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 2,
-   "csv_bytes": 180762,
-   "csv_sha256": "293de4abd032d01d4bc445ce0f4bb321275cfd8a348568bb1f1519e9abfb4aa7",
-   "json_bytes": 159593,
-   "json_sha256": "b4c7ad47c0ebea97f8c4a03ef21f286f6fa9050cf41b5fc867c469ad72cb085c"
+   "csv_bytes": 183283,
+   "csv_sha256": "53d02504368bf77c110d78b1aa6d59e089b21fb16bfd31bcad33e99d4ab66a13",
+   "json_bytes": 161814,
+   "json_sha256": "4f9ba746842bead64688ac06d2a3760368d09eb307bf7fb7787c272accaf5ae2"
   },
   {
    "table": "LiberateCharacterTable",
@@ -683,14 +697,14 @@
   },
   {
    "table": "MonsterCallingListTable",
-   "rows": 1676,
+   "rows": 1724,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 9,
-   "csv_bytes": 81135,
-   "csv_sha256": "05bf9219eee1a8e42b4c091cd95bf3802a73b975f3a1696d6387d8325c5096a5",
-   "json_bytes": 268936,
-   "json_sha256": "fb547ff39d8f723aeaea0846e5fe1a331fc68d99e0f87d4ab1bb1535ec9fd885"
+   "csv_bytes": 83535,
+   "csv_sha256": "f583ba0c656d940e95d1f2ac0378520553ffb6a8cc14de0cc9f634558bb3a771",
+   "json_bytes": 276712,
+   "json_sha256": "6ca462aabc98db5062cc86f49c5e81f6ab398d106f6319b6b1cb6fcd8ec7ea2b"
   },
   {
    "table": "MonsterFieldTable",
@@ -705,69 +719,102 @@
   },
   {
    "table": "MonsterModelTable",
-   "rows": 188,
+   "rows": 195,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 12,
-   "csv_bytes": 15010,
-   "csv_sha256": "3db24c134f46c5077e9d73f77762403cc87fc53760a1ed7c92c79f07118b8fe5",
-   "json_bytes": 47106,
-   "json_sha256": "2684292fd83caffd375645250d5c7af923fadb835e2304a4b4b9ea58c4e3e215"
+   "csv_bytes": 15579,
+   "csv_sha256": "86232b0bc381c83a418929b4c4335c7a504640c0a8a43872357e39850c3d85be",
+   "json_bytes": 48865,
+   "json_sha256": "1edc9e505362c13b7dc7f90cda4894040e2f47e6af106937d0f620a9a76da83b"
   },
   {
    "table": "MonsterPartsTable",
-   "rows": 601,
+   "rows": 618,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 23,
-   "csv_bytes": 147335,
-   "csv_sha256": "8010b196bc3c579a63d877a85f77429caf704c393225f61b0e4631400e6d6cd7",
-   "json_bytes": 388732,
-   "json_sha256": "e36191102fe6900465061ee746c2aec0aa27b6363f48c2f0c40d86dccd4f9590"
+   "csv_bytes": 152271,
+   "csv_sha256": "9a4572a7eadc504682dc1b356e8640300860928c2502dddddbba8e69dd3554db",
+   "json_bytes": 400313,
+   "json_sha256": "645b4304e973db0ab8eb65895952ad6fe20ae5a18b1157bb8a703ec46c0a2fce"
   },
   {
    "table": "MonsterSkillTable",
-   "rows": 3771,
+   "rows": 3972,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 44,
-   "csv_bytes": 928156,
-   "csv_sha256": "bff0c2c78933b5e99b2cf8a8aa5b934ee56d63d8a516a9b2db4bbf78c947c09e",
-   "json_bytes": 3864635,
-   "json_sha256": "2d620ab99eb4386bb79b8f810296352cc815c905c11f0da0bc0f9430bbfe4944"
+   "csv_bytes": 973410,
+   "csv_sha256": "ca0b30192856121ce4c09425a3d3cae99b8a860576e48cdee3e63e1ac4f436fb",
+   "json_bytes": 4063731,
+   "json_sha256": "8291948db5f8eb2fe60c66126779322dbc1bd87ec1f28b3b46664c800dd3d9e7"
   },
   {
    "table": "MonsterStageLvChangeTable",
-   "rows": 261,
+   "rows": 414,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 10,
-   "csv_bytes": 18749,
-   "csv_sha256": "4dcd388f1f2092c8706420939aa3031a4efc961413827c12dbc40aa513733fa5",
-   "json_bytes": 64564,
-   "json_sha256": "8818cb8b35c01814f07f1f39dca61ac0bd6736229d3e8d5cb72cc45bd3b451aa"
+   "csv_bytes": 31310,
+   "csv_sha256": "6855494a7c0a36f2057639eef3c16e8289fec5c9b1aec067d9c75b24fb3ba830",
+   "json_bytes": 103900,
+   "json_sha256": "94bd28b44a5967b51e53f747faa0b623eb52b4bc116320020f444f1856848ca7"
   },
   {
    "table": "MonsterStatEnhanceTable",
-   "rows": 30615,
+   "rows": 30885,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 12,
-   "csv_bytes": 2070313,
-   "csv_sha256": "1af181d210fe8ce2bb0dd60dc583c47ba9907248a884d6699a8d407f16429a24",
-   "json_bytes": 7887307,
-   "json_sha256": "cf864ba440b0b8ac97c8e6529483f217c2200b706eb4b3a810f0560ed5798efc"
+   "csv_bytes": 2092133,
+   "csv_sha256": "0c8a64a4cdff02d8a1b8d63ec2f1470121a16a1fa145ae5f0461097003399b1c",
+   "json_bytes": 7960427,
+   "json_sha256": "ee4319a813a1beda0adeb009dbb5706293430601381249a42d1bedec55cd279d"
   },
   {
    "table": "MonsterTable",
-   "rows": 1824,
+   "rows": 1848,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 31,
-   "csv_bytes": 4872306,
-   "csv_sha256": "4e5fa8f7312872cfe7806d0dc5e53be77a0d493cfda2e9a4310d0248ac2f57f1",
-   "json_bytes": 5623709,
-   "json_sha256": "209b9b3c404340b4b174ff7160eabd52010b4c72a32b714eef85d30f38132bc8"
+   "csv_bytes": 4938651,
+   "csv_sha256": "d1e6a393ec1eb014c90d788bd78e1c7e9e4fbd832428c593b431c442fe4e07b0",
+   "json_bytes": 5699938,
+   "json_sha256": "9b4a430de9cae4aa62b49c882cc76774bc56417814b3c59eb497e7e62277ef4e"
+  },
+  {
+   "table": "MuseumBuffTable",
+   "rows": 6,
+   "leftover_bytes": 0,
+   "schema_class": null,
+   "field_count": 3,
+   "csv_bytes": 224,
+   "csv_sha256": "959cd7238828a67ae82499ad5ebc8845904ff3fc0b2ec12f3c35b595447ee6a5",
+   "json_bytes": 524,
+   "json_sha256": "aa70d6a9cbd587e04c24ac54cd77a1bcb58e7f7318db24c6de1d4c79c35885c3"
+  },
+  {
+   "table": "MuseumWeeklyBuffGroupTable",
+   "rows": 3,
+   "leftover_bytes": 0,
+   "schema_class": null,
+   "field_count": 3,
+   "csv_bytes": 55,
+   "csv_sha256": "5552a0850ada82d242dd72ce291dfbbfd4ea11806924630ee94240deeb8daa89",
+   "json_bytes": 273,
+   "json_sha256": "a86b99754d5bc2304f3e2236e226a39a796e3595f97c23adb8630e3823795330"
+  },
+  {
+   "table": "MuseumWeeklyBuffTable",
+   "rows": 3,
+   "leftover_bytes": 0,
+   "schema_class": null,
+   "field_count": 5,
+   "csv_bytes": 114,
+   "csv_sha256": "db17c80fb0419e3504fbad9950c014830b3b7f1cae26b07f7bd18285e0ba3742",
+   "json_bytes": 376,
+   "json_sha256": "9771d9b068489b07fc943c9db084f113fcbd9e9eb3b0d57f783248965a677308"
   },
   {
    "table": "ObjectStatEnhanceTable",
@@ -826,14 +873,14 @@
   },
   {
    "table": "SimulationRoomBattleEventTable",
-   "rows": 1342,
+   "rows": 1594,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 18,
-   "csv_bytes": 115203,
-   "csv_sha256": "2dd2ec2625af7b78de10e4a8c46ecfc3c37ead4f36404f1eacfd32cb935afb1e",
-   "json_bytes": 587429,
-   "json_sha256": "a971c2b25fb5bf45e3643ac1306dcd21da39c756fb0a24a1e3739b3dd6ab04c4"
+   "csv_bytes": 136755,
+   "csv_sha256": "d0a5ce8f38c2bb3e1f5cdef56c09407db285bd3b1c6eaa3f227dacda76289aa6",
+   "json_bytes": 697733,
+   "json_sha256": "7d1b6746a788892ff6dfdc63990f380a2c89fb9495e7e106a31b039d5c21d6ea"
   },
   {
    "table": "SimulationRoomBuffChainTable",
@@ -1024,14 +1071,14 @@
   },
   {
    "table": "SkillInfoTable",
-   "rows": 7889,
+   "rows": 8190,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 10,
-   "csv_bytes": 2139093,
-   "csv_sha256": "9f27a2af0a508bfed49065fe3fb0de21f9a72f86733383622ac271e0625df43f",
-   "json_bytes": 3375294,
-   "json_sha256": "b19c6b1532e834440234d78e344673d07a2a33b5938bfe2037a2502ee3091c5d"
+   "csv_bytes": 2227422,
+   "csv_sha256": "fc4abac017ab26675fe659293da0849752f6785944ca4f27d4091f7d2bc549ea",
+   "json_bytes": 3509966,
+   "json_sha256": "c8514d887c1ab7cc7aa4ce7ca35836bef36bcbd6d1702a0bae1cbb16670d3239"
   },
   {
    "table": "SkillLevelPointTable",
@@ -1068,36 +1115,36 @@
   },
   {
    "table": "StateEffectTable",
-   "rows": 4467,
+   "rows": 4633,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 5,
-   "csv_bytes": 1793716,
-   "csv_sha256": "1a0e346b9247d5092c940ee767a58d6d10f39e700519fb2396db22e22ee09f8d",
-   "json_bytes": 1936792,
-   "json_sha256": "724315fa62f1a0c636e2e78655a8cfa43aa1d20fa83e75ed02a22ec1ddb88c1e"
+   "csv_bytes": 1862475,
+   "csv_sha256": "a3e27e6efce5ae8868b5d515b62d941cab455f926e7c09817a4e40e5594a43bd",
+   "json_bytes": 2010863,
+   "json_sha256": "5ae5acf890faec43734461ccacd94e40cd7b1d55de1b7fbad3fafb7cbb92a1dc"
   },
   {
    "table": "SupportCharacterGroupTable",
-   "rows": 100,
+   "rows": 108,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 3,
-   "csv_bytes": 2165,
-   "csv_sha256": "4ce0433fd26449f58cd1fa629b64882575e5adde58f0dddd84f4ecd206cbc75c",
-   "json_bytes": 6292,
-   "json_sha256": "44edbed1d890a1de50fd7f2b98929c1ff8bc7f104678c4e0ed2e0990feac9c73"
+   "csv_bytes": 2333,
+   "csv_sha256": "5c30d25c4f3e15959de78868f8668ec6c2c77a409a39714e28cce3db5f14bf95",
+   "json_bytes": 6780,
+   "json_sha256": "6f3aa08b1913a00c62c66bd12de49a7342beea72471415f21aeecd9da4469269"
   },
   {
    "table": "SupportCharacterTable",
-   "rows": 95,
+   "rows": 101,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 10,
-   "csv_bytes": 33302,
-   "csv_sha256": "822067afe7be27ac0170609f538afe3565df11306546c0d0e0558c2f8e73ce56",
-   "json_bytes": 45977,
-   "json_sha256": "6ae374168a1986849d028f97eaac2954fb86402de7aa9406789fbfda0743a2e8"
+   "csv_bytes": 35396,
+   "csv_sha256": "8e5e4c348bcfe3cbe781601b7993c3c9e8fcd93ec990ea32d90f9c95dc40da46",
+   "json_bytes": 48864,
+   "json_sha256": "d715f5a2164662fe794401f4c893db65494ca2a042f8d1bc9bb64d1c3480a166"
   },
   {
    "table": "TacticAcademyClassTable",
@@ -1134,25 +1181,25 @@
   },
   {
    "table": "UnionRaidManagerTable",
-   "rows": 20,
+   "rows": 21,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 2,
-   "csv_bytes": 322,
-   "csv_sha256": "7eb30b4418003faef91fe2cce06cb7eabcf2a95320168cfd53845a838b9ae41b",
-   "json_bytes": 901,
-   "json_sha256": "709e7aebaa115ba37de90c46dc8c2a8c57101059d994169956590509ea9e7bc6"
+   "csv_bytes": 337,
+   "csv_sha256": "0409adf513a503670e1c8aae460e8d9ddf0080fdfddaa0bc6da1c9470d8e6ecc",
+   "json_bytes": 939,
+   "json_sha256": "54533094507db34eff3990327f7de4aeaf01b22ce7bc3e40e2e3acccf4cbb8cf"
   },
   {
    "table": "UnionRaidPresetTable",
-   "rows": 1273,
+   "rows": 1289,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 17,
-   "csv_bytes": 181012,
-   "csv_sha256": "2a774bdc3efe3e3873b24977e0fa170beab5e8496518c1aa90e204030fcb5bb4",
-   "json_bytes": 571973,
-   "json_sha256": "fd9efc30d667e17dbbb837e15ae916ad5be5c27d06c53736b147dfbfaa94a54a"
+   "csv_bytes": 183258,
+   "csv_sha256": "8d3be489f2e1e50dcf7114b769a0720937ea9d3986238c7888e01a0ef332a70e",
+   "json_bytes": 579131,
+   "json_sha256": "a4d7d9441cd5709270a5ac75c5ffc413f18e5366a9c8a7f863dd1926a6248b8c"
   },
   {
    "table": "UnionRaidRankingTierTable",
@@ -1167,14 +1214,14 @@
   },
   {
    "table": "UnionRaidRewardTable",
-   "rows": 1220,
+   "rows": 1281,
    "leftover_bytes": 0,
    "schema_class": null,
    "field_count": 4,
-   "csv_bytes": 34810,
-   "csv_sha256": "6cebcc94f3563f55653b3815042ab687fd29600b2e36a31065675207f5a587a8",
-   "json_bytes": 98374,
-   "json_sha256": "4ab8c56517433c6c86a8c26f7597859b539366299b4f213c23f140a4cf53abda"
+   "csv_bytes": 36573,
+   "csv_sha256": "e5c274099d82b958257ef0fb9c38e8895a2401f286f444c12d95c9caa2935780",
+   "json_bytes": 103309,
+   "json_sha256": "9a6509ddbcfdbcfc513206696b37ed63267c72ffc3ee169dbfa76277b6bedcb8"
   },
   {
    "table": "ViewModeCharacterFaceListTable",

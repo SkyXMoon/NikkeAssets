@@ -1,5 +1,7 @@
 # 国服 · 静态数据表（staticdata/）
 
+> **GitHub 推送范围（A 方案）**：本仓库只推送核心战斗/角色/技能数据表，**不是**本地全量交付的全部内容。完整全量保留在本地工作副本与分卷包，详见文末「GitHub 推送范围」。
+
 本目录按**源字段名、源值**逐张导出国服解密源包中的核心战斗 / 角色 / 技能数据表。与 `../data/` 的展示表是两套数据：`data/` 是裁剪、中文列名、单位换算后的展示契约；本目录不裁剪、不翻译、不换算、不改 ID。
 
 ## 数据版本
@@ -57,3 +59,19 @@
 
 - `manifest.core.json` 中 106 张表的 `leftover_bytes` 全为 0（按 schema 完整消费）。
 - 逐文件哈希可用 `manifest.core.json` 的 `csv_sha256` / `json_sha256` 自行比对。
+
+## GitHub 推送范围（A 方案，2026-11-10）
+
+为避免仓库膨胀，GitHub 只跟踪核心数据表；本地 `cn/staticdata/` 的全量文件**未删除、未移动**，仅由仓库根 `.gitignore` 排除。
+
+| 项 | 本服数值 |
+|---|---:|
+| 全量结构化表 | 8,972 张 |
+| 本服推送表 | **109 张**（CSV + JSON 共 218 文件） |
+| 推送体积 | **89.3 MB** |
+
+**纳入范围**：审计报告《未交付的核心战斗表清单.csv》的 70 张核心战斗表按本服源包实际存在的表无条件纳入（两服表名不完全相同），另加主表名以 Character/Skill/Shot/Stat/Function/StateEffect/Buff/Monster/Equip/Arena/Weapon/Spot/Burst/Item/Costume 等关键词开头的表；**排除** `ScenarioDialogTable.*` 等剧情对话表与 `FieldMapData_*` 地图数据。核心伤害 `core_damage_rate` / `CoreDamageRate`、爆裂技能 CD `skill_cooltime` / `SkillCooltime`、`CharacterStatTable`、`FunctionTable`、`StateEffectTable`、`BuffTable`、`ArenaTable`、`AutoChargeTable` 等均已包含。
+
+**文件说明**：仓库内的 `manifest.core.json` 是**推送子集**的逐表行数/字段数/SHA256；本地的 `manifest.json` 是**全量**清单（未推送，别拿它核对仓库）。未推送内容主要是剧情文本，与模拟器数值无关。
+
+**获取完整全量**：本地 `cn/staticdata/` 原样保留；或用分卷包 `Runs/data_completeness_audit_20261110/dist/cn/`（解压到同一目录自动合并）。规则与白名单清单见 `Runs/data_completeness_audit_20261110/push_whitelist.json`。

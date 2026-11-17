@@ -178,6 +178,7 @@
 351023,180,mba002_whiteice_psid_over,Attacker,Centurion,Huge,Huge,Metal,Fly,Air_Attacker,None,None
 351003,163,mbg003_psid,Defender,Boss,Huge,Huge,Metal,Walk,Defender,None,None
 451001,153,xba001,Defender,Boss,Huge,Huge,Unknown,Fly,Air_Defender,None,None
+451002,191,xba002_dmtr,Attacker,Boss,Huge,Huge,Unknown,Fly,Air_Attacker,None,None
 451011,156,xba001_psid_intercept,Defender,Boss,Huge,Huge,Unknown,Fly,Air_Defender,None,None
 442001,142,xcg001,Defender,Centurion,Big,Big,Unknown,Walk,Defender,None,None
 442002,152,xcg002,Defender,Centurion,Big,Big,Unknown,Walk,Defender,None,None
@@ -187,3 +188,9 @@
 9132002,17,beg002_advance,Defender,Elite,Medium,Medium,Bio,Walk,Defender,None,None
 9321002,6,mma002_advance,Attacker,Minion,Small,Small,Metal,Fly,Air_Attacker,None,None
 452002,182,xbg002_zeus,Attacker,Boss,Huge,Huge,Unknown,Walk,Attacker,None,None
+132007,189,beg007,Defender,Elite,Medium,Medium,Bio,Walk,Defender,None,None
+132008,190,beg008,Supporter,Elite,Medium,Medium,Bio,Walk,Supporter,None,None
+331006,188,mea006,Attacker,Elite,Medium,Medium,Metal,Fly,Air_Attacker,None,None
+452003,192,xbg003_hsta,Defender,Boss,Huge,Huge,Unknown,Fly,Air_Defender,None,None
+152023,234,bbg003_hsta_museum,Supporter,Boss,Huge,Huge,Bio,Walk,Supporter,None,None
+152031,237,bbg001_hsta_museum,Attacker,Boss,Huge,Huge,Bio,Walk,Attacker,None,None
