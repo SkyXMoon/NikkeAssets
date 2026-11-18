@@ -44,7 +44,7 @@ c132,132,5064,梅里：海湾女神,Mary: Bay Goddess,00,1,icn_skill_heal_01|icn
 c140,140,5002,舒格,Sugar,00|01|02,3,icn_skill_statreloadtime_01|icn_skill_statcritical_01|icn_skill_c140_ult,cn/characters/c140,cn/characters/c140/meta.json,2140101,2140201,1140301
 c141,141,5028,米尔克,Milk,00|01,2,icn_skill_atkup_01|icn_skill_criticaldamage_01|icn_skill_c141_ult,cn/characters/c141,cn/characters/c141/meta.json,1141101,2141201,1141301
 c142,142,5010,普琳玛,Frima,00|01,2,icn_skill_defdown_01|icn_skill_stathp_01|icn_skill_c142_ult,cn/characters/c142,cn/characters/c142/meta.json,2142101,2142201,1142301
-c143,143,5150,米尔克：花漾兔女郎,,00,1,icn_skill_atkup_01|icn_skill_penetrationdamage_01|icn_skill_c143_ult,cn/characters/c143,cn/characters/c143/meta.json,2143101,2143201,1143301
+c143,143,5150,米尔克：花漾兔女郎,Milk: Blooming Bunny,00,1,icn_skill_atkup_01|icn_skill_penetrationdamage_01|icn_skill_c143_ult,cn/characters/c143,cn/characters/c143/meta.json,2143101,2143201,1143301
 c150,150,5014,尤莉亚,Julia,00|01|02,3,icn_skill_statcritical_01|icn_skill_criticaldamage_01|icn_skill_c150_ult,cn/characters/c150,cn/characters/c150/meta.json,1150101,2150201,1150301
 c160,160,5006,尤妮,Yuni,00|01,2,icn_skill_statreloadtime_01|icn_skill_defup_01|icn_skill_c160_ult,cn/characters/c160,cn/characters/c160/meta.json,2160101,2160201,1160301
 c161,161,3006,米哈拉,Mihara,00,1,icn_skill_criticaldamage_01|icn_skill_statcritical_01|icn_skill_c161_ult,cn/characters/c161,cn/characters/c161/meta.json,2161101,2161201,1161301
@@ -54,8 +54,8 @@ c171,171,5029,尤尔夏,Yulha,00,1,icn_skill_statcritical_01|icn_skill_atkup_01|
 c172,172,5030,艾德米,Admi,00,1,icn_skill_atkup_01|icn_skill_defup_01|icn_skill_c172_ult,cn/characters/c172,cn/characters/c172/meta.json,2172101,1172201,1172301
 c180,180,5031,吉萝婷,Guillotine,00,1,icn_skill_statcritical_01|icn_skill_criticaldamage_01|icn_skill_c180_ult,cn/characters/c180,cn/characters/c180/meta.json,2180101,2180201,1180301
 c181,181,5032,梅登,Maiden,00|01|02,3,icn_skill_atkup_01|icn_skill_attention_01|icn_skill_c181_ult,cn/characters/c181,cn/characters/c181/meta.json,2181101,1181201,1181301
-c182,182,5128,吉萝婷：寒冬杀手,,00,1,icn_skill_atkup_01|icn_skill_atkup_01|icn_skill_c182_ult,cn/characters/c182,cn/characters/c182/meta.json,2182101,2182201,1182301
-c183,183,5127,梅登：冰玫瑰,,00,1,icn_skill_stathp_01|icn_skill_atkup_01|icn_skill_c183_ult,cn/characters/c183,cn/characters/c183/meta.json,2183101,2183201,1183301
+c182,182,5128,吉萝婷：寒冬杀手,Guillotine: Winter Slayer,00,1,icn_skill_atkup_01|icn_skill_atkup_01|icn_skill_c182_ult,cn/characters/c182,cn/characters/c182/meta.json,2182101,2182201,1182301
+c183,183,5127,梅登：冰玫瑰,Maiden: Ice Rose,00,1,icn_skill_stathp_01|icn_skill_atkup_01|icn_skill_c183_ult,cn/characters/c183,cn/characters/c183/meta.json,2183101,2183201,1183301
 c190,190,5033,鲁德米拉,Ludmilla,00,1,icn_skill_atkdown_01|icn_skill_attention_01|icn_skill_c190_ult,cn/characters/c190,cn/characters/c190/meta.json,2190101,2190201,1190301
 c191,191,5004,爱丽丝,Alice,00|02,2,icn_skill_rateoffire_01|icn_skill_statpenetration_01|icn_skill_c191_ult,cn/characters/c191,cn/characters/c191/meta.json,2191101,2191201,1191301
 c192,192,5081,托比,Tove,00|01|02,3,icn_skill_statammo_01|icn_skill_rateoffire_01|icn_skill_c192_ult,cn/characters/c192,cn/characters/c192/meta.json,2192101,2192201,1192301
@@ -71,7 +71,7 @@ c212,212,5037,诺薇儿,Novel,00|01,2,icn_skill_defdown_01|icn_skill_defup_01|ic
 c220,220,5012,白雪公主,Snow White,00|01,2,icn_skill_atkup_01|icn_skill_statcritical_01|icn_skill_c220_ult,cn/characters/c220,cn/characters/c220/meta.json,2220101,1220201,1220301
 c221,221,5040,长发公主,Rapunzel,00,1,icn_skill_heal_01|icn_skill_stathp_01|icn_skill_c221_ult,cn/characters/c221,cn/characters/c221/meta.json,2221101,1221201,1221301
 c222,222,5041,红莲,Scarlet,00|01,2,icn_skill_atkup_01|icn_skill_atkup_01|icn_skill_c222_ult,cn/characters/c222,cn/characters/c222/meta.json,2222101,2222201,1222301
-c223,223,5155,娜由塔,,00|01,2,icn_skill_coredamage_01|icn_skill_atkup_01|icn_skill_c223_ult,cn/characters/c223,cn/characters/c223/meta.json,2223101,2223201,1223301
+c223,223,5155,娜由塔,Nayuta,00|01,2,icn_skill_coredamage_01|icn_skill_atkup_01|icn_skill_c223_ult,cn/characters/c223,cn/characters/c223/meta.json,2223101,2223201,1223301
 c224,224,5102,白雪公主：纯真年代,Snow White: Innocent Days,00,1,icn_skill_statammo_01|icn_skill_damage_01|icn_skill_c224_ult,cn/characters/c224,cn/characters/c224/meta.json,2224101,2224201,1224301
 c225,225,5105,红莲：暗影,Scarlet: Black Shadow,00|01,2,icn_skill_damage_01|icn_skill_statammo_01|icn_skill_c225_ult,cn/characters/c225,cn/characters/c225/meta.json,2225101,2225201,1225401
 c226,226,5123,长发公主：纯洁恩典,Rapunzel: Pure Grace,00,1,icn_skill_barrier_01|icn_skill_healbarrier_01|icn_skill_c226_ult,cn/characters/c226,cn/characters/c226/meta.json,2226101,2226201,1226301
@@ -80,12 +80,12 @@ c231,231,5013,伊莎贝尔,Isabel,00|01,2,icn_skill_criticaldamage_01|icn_skill_
 c232,232,5043,诺雅,Noah,00,1,icn_skill_defup_01|icn_skill_attention_01|icn_skill_c232_ult,cn/characters/c232,cn/characters/c232/meta.json,2232101,2232201,1232301
 c233,233,5061,桃乐丝,Dorothy,00|01|80,3,icn_skill_statreloadtime_01|icn_skill_atkup_01|icn_skill_c233_ult,cn/characters/c233,cn/characters/c233/meta.json,2233101,1233201,1233301
 c234,234,5145,桃乐丝：机缘巧遇,Dorothy: Serendipity,00,1,icn_skill_statpenetration_01|icn_skill_atkup_01|icn_skill_c234_ult,cn/characters/c234,cn/characters/c234/meta.json,2234101,2234201,1234301
-c240,240,3004,鲁玛妮,,00,1,icn_skill_stathp_01|icn_skill_atkup_01|icn_skill_c240_ult,cn/characters/c240,cn/characters/c240/meta.json,2240101,2240201,1240301
+c240,240,3004,鲁玛妮,Rumani,00,1,icn_skill_stathp_01|icn_skill_atkup_01|icn_skill_c240_ult,cn/characters/c240,cn/characters/c240/meta.json,2240101,2240201,1240301
 c241,241,5038,艾菲涅尔,Epinel,00,1,icn_skill_atkup_01|icn_skill_criticaldamage_01|icn_skill_c241_ult,cn/characters/c241,cn/characters/c241/meta.json,2241101,2241201,1241301
 c242,242,5039,富克旺,Folkwang,00|01,2,icn_skill_barrier_01|icn_skill_attention_01|icn_skill_c242_ult,cn/characters/c242,cn/characters/c242/meta.json,1242101,1242201,1242301
 c260,260,5044,神罚,Modernia,00|01|02|80,4,icn_skill_atkup_01|icn_skill_stataccuracycircle_01|icn_skill_c260_ult,cn/characters/c260,cn/characters/c260/meta.json,2260101,2260201,1260301
 c261,261,5056,尼希利斯塔,Nihilister,00,1,icn_skill_statexplosion_01|icn_skill_atkup_01|icn_skill_c261_ult,cn/characters/c261,cn/characters/c261/meta.json,2261101,1261201,1261301
-c262,262,5156,莉贝雷利奥,,00,1,icn_skill_atkup_01|icn_skill_atkup_01|icn_skill_c262_ult,cn/characters/c262,cn/characters/c262/meta.json,2262101,2262201,1262301
+c262,262,5156,莉贝雷利奥,Liberalio,00,1,icn_skill_atkup_01|icn_skill_atkup_01|icn_skill_c262_ult,cn/characters/c262,cn/characters/c262/meta.json,2262101,2262201,1262301
 c270,270,5008,布兰儿,Blanc,00|01|02|03,4,icn_skill_barrier_01|icn_skill_heal_01|icn_skill_c270_ult,cn/characters/c270,cn/characters/c270/meta.json,2270101,2270201,1270301
 c271,271,5009,诺亚尔,Noir,00|01|02,3,icn_skill_atkup_01|icn_skill_statammo_01|icn_skill_c271_ult,cn/characters/c271,cn/characters/c271/meta.json,2271101,2271201,1271301
 c272,272,5049,露姬,Rouge,00|01,2,icn_skill_stathp_01|icn_skill_stathp_01|icn_skill_c272_ult,cn/characters/c272,cn/characters/c272/meta.json,2272101,2272201,1272301
@@ -110,10 +110,10 @@ c311,311,5050,可可,Cocoa,00,1,icn_skill_healcover_01|icn_skill_defup_01|icn_sk
 c312,312,5051,索达,Soda,00,1,icn_skill_stathp_01|icn_skill_heal_01|icn_skill_c312_ult,cn/characters/c312,cn/characters/c312/meta.json,2312101,1312201,1312301
 c313,313,5106,普丽瓦蒂：不友善的女仆,Privaty: Unkind Maid,00,1,icn_skill_atkup_01|icn_skill_statreloadtime_01|icn_skill_c313_ult,cn/characters/c313,cn/characters/c313/meta.json,2313101,2313201,1313301
 c314,314,5113,索达：闪亮兔女郎,Soda: Twinkling Bunny,00,1,icn_skill_criticaldamage_01|icn_skill_incburstduration_01|icn_skill_c314_ult,cn/characters/c314,cn/characters/c314/meta.json,2314101,2314201,1314301
-c315,315,5151,爱德：特工兔女郎,,00,1,icn_skill_atkup_01|icn_skill_statpenetration_01|icn_skill_c315_ult,cn/characters/c315,cn/characters/c315/meta.json,2315101,2315201,1315301
+c315,315,5151,爱德：特工兔女郎,Ade: Agent Bunny,00,1,icn_skill_atkup_01|icn_skill_statpenetration_01|icn_skill_c315_ult,cn/characters/c315,cn/characters/c315/meta.json,2315101,2315201,1315301
 c321,321,5048,玛律恰那,Marciana,00|01,2,icn_skill_heal_01|icn_skill_heal_01|icn_skill_c321_ult,cn/characters/c321,cn/characters/c321/meta.json,2321101,2321201,1321301
 c330,330,5065,皇冠,Crown,00|01|02,3,icn_skill_statreloadtime_01|icn_skill_attention_01|icn_skill_c330_ult,cn/characters/c330,cn/characters/c330/meta.json,2330101,2330201,1330301
-c331,331,5157,钟鸣,,00,1,icn_skill_atkup_01|icn_skill_atkup_01|icn_skill_c331_ult,cn/characters/c331,cn/characters/c331/meta.json,2331101,2331201,1331301
+c331,331,5157,钟鸣,Chime,00,1,icn_skill_atkup_01|icn_skill_atkup_01|icn_skill_c331_ult,cn/characters/c331,cn/characters/c331/meta.json,2331101,2331201,1331301
 c350,350,5079,马斯特,Mast,00|01,2,icn_skill_criticaldamage_01|icn_skill_statcritical_01|icn_skill_c350_ult,cn/characters/c350,cn/characters/c350/meta.json,2350101,2350201,1350301
 c351,351,5063,安克,Anchor,00,1,icn_skill_attention_01|icn_skill_atkup_01|icn_skill_c351_ult,cn/characters/c351,cn/characters/c351/meta.json,2351101,2351201,1351301
 c352,352,5066,海伦,Helm,00|01|02,3,icn_skill_statcritical_01|icn_skill_atkup_01|icn_skill_c352_ult,cn/characters/c352,cn/characters/c352/meta.json,2352101,2352201,1352301
