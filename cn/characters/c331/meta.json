@@ -14,7 +14,9 @@
   "skins": [
     "00"
   ],
-  "si_files": [],
+  "si_files": [
+    "si_c331_00_s.png"
+  ],
   "skill_icons": [
     "icn_skill_atkup_01",
     "icn_skill_atkup_01",

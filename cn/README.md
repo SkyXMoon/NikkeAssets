@@ -8,7 +8,7 @@
 - 角色数：169（characters/ 资源目录、index/characters_index.csv 与 data/ 展示表三处一致）
 - 多皮肤角色数：78
 - 皮肤变体总数（full/mi 对数）：286
-- 图片总数：1321（full 286 / mi 286 / si 273 / skills 476）
+- 图片总数：1336（full 286 / mi 286 / si 288 / skills 476）
 - 技能图标数：264
 - 技能等级数据行：8190（技能组 918 个，与国服 SkillInfoTable 完全一致）
 - 部队数：58（nikke_characters.csv 部队字段唯一值）
